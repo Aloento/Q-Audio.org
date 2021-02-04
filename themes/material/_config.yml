@@ -5,7 +5,7 @@ menu:
     url: /
     icon: fas fa-draw-polygon
   画廊:
-    url: /arts
+    url: /Arts
     icon: fab fa-itunes-note
   文章:
     icon: fab fa-buffer
@@ -23,22 +23,22 @@ menu:
     icon: fas fa-hat-wizard
     children:
       - name: Reaper
-        url: /reaper
+        url: /Reaper
         icon: fas fa-magic
       - name: Caustic
-        url: /caustic
+        url: /Caustic
         icon: fab fa-connectdevelop
   我们:
     icon: fab fa-envira
     children:
       - name: 关于
-        url: /about
+        url: /About
         icon: fas fa-fire-alt
       - name: 投稿
-        url: /upline
+        url: /UpLine
         icon: fas fa-seedling
       - name: 友情链接
-        url: /friends
+        url: /Friends
         icon: fab fa-telegram-plane
 
 # Website start time.
@@ -128,15 +128,15 @@ indexbtn:
   enable: true
   name: 开始聆听
   icon: fas fa-play
-  url: /arts
+  url: /Arts
 
 # The configurations of the second line of home banner
 # icon/button will not show up if you leave the corresponding socialLink empty
 # 首页 banner 中的第二行个人信息配置，留空即不启用
 socialLink:
-  github:  https://github.com/SoarTeam
-  email: Copyright@Q-Audio.org
-  rss: true # true、false
+  github:
+  email:
+  rss:
 
 # Whether to activate the Post TOC, and Configure which title types are supported by TOC support.
 # You can add `toc: false` to the Front-matter of a post to turn off the TOC.
@@ -318,7 +318,7 @@ valine:
   appId: XS4HGf29ojYFG6djzpEslRyh-MdYXbMMI
   appKey: LdjElMqznNI091sMLWF1WP6x
   notify: false
-  verify: false
+  verify: true
   visitor: true
   avatar: 'retro' # Gravatar style : mm/identicon/monsterid/wavatar/retro/hide
   pageSize: 10
