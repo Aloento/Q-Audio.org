@@ -105,5 +105,5 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:SoarTeam/Q-Audio.org.git
-  branch: [master]
-  message: [Deploy Hexo]
+  branch: master
+  message: "{{ now('YYYY-MM-DD HH:mm:ss') }}"
