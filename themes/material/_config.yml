@@ -157,7 +157,7 @@ code:
 
 # 是否激活文章末尾的打赏功能，默认激活（你替换为的你自己的微信、支付宝二维码图片、或者使用网络图片也可以）.
 reward:
-  enable: true
+  enable: false
   title: 你的赏识是我前进的动力
   wechat: /medias/reward/wechat.png
   alipay: /medias/reward/alipay.jpg
@@ -166,9 +166,9 @@ reward:
 # minCharNumber: Approve copyright information by copying at least how many characters.
 # 是否激活复制文章时追加博客和作者的版权信息.
 copyright:
-  enable: false
-  minCharNumber: 120 # 至少复制多少个字符就追加版权信息.
-  description: 本文章著作权归作者所有，任何形式的转载都请注明出处。
+  enable: true
+  minCharNumber: 0 # 至少复制多少个字符就追加版权信息.
+  description: 感谢可爱的你来到我的Blog，如需转载请注明来自Aloento_SoarTeam
 
 # Whether to activate the mathjax, this is a global configuration, but the post still does not open the mathjax rendering.
 # Considering that the mathjax loading is time consuming,
@@ -176,7 +176,7 @@ copyright:
 # 是否激活mathjax数学公式，这是全局配置，但文章仍然不会都开启mathjax渲染，
 # 考虑到mathjax加载比较耗时，你还需要在需要渲染的文章的Front-matter中再加上`mathjax: true`才行.
 mathjax:
-  enable: false
+  enable: true
   cdn: https://cdn.bootcss.com/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 
 # Post word count, reading duration, site total word count.
@@ -255,7 +255,7 @@ mySkills:
 # If you don't want to display this `Gallery` content, you can deactivate or delete this configuration.
 # 在“关于”页面配置"我的相册"图片，如果你不需要这些信息则可以将其设置为不激活或者将其删除.
 myGallery:
-  enable: true
+  enable: flase
   data:
     - /medias/featureimages/0.jpg
     - /medias/featureimages/1.jpg
@@ -330,9 +330,9 @@ valine:
 # MiniValine 评论模块的配置，默认为不激活，如要使用，就请激活该配置项，并设置 appId 和 appKey.
 # See: https://github.com/MiniValine/MiniValine
 minivaline:
-  enable: false
-  appId: zhM0AOiqle17oPoE84CoYw1e-gzGzoHsz # Your leancloud application appid
-  appKey: itmzT1JbXfAjVwMqDhGPzU45 # Your leancloud application appkey
+  enable: true
+  appId: XS4HGf29ojYFG6djzpEslRyh-MdYXbMMI # Your leancloud application appid
+  appKey: LdjElMqznNI091sMLWF1WP6x # Your leancloud application appkey
   mode: DesertsP # DesertsP or xCss
   placeholder: Write a Comment # Comment box placeholder
   math: true # Support MathJax.
@@ -377,8 +377,8 @@ changyan:
 # 配置是否在 header 中显示 fork me on github 的图标，默认为true，你可以修改为你的仓库地址.
 githubLink:
   enable: true
-  url: https://github.com/blinkfox/hexo-theme-matery
-  title: Fork Me
+  url: https://github.com/SoarTeam/OpenMusic
+  title: OpenMusic
 
 # The password verification feature of read post. To use this feature,
 # activate the configuration item and write the 'password' key and Cipher in the post's Front-matter.
@@ -506,7 +506,7 @@ featureImages:
 # pay（付费转载 pay for reprinting）
 reprint:
   enable: true # whether enable reprint section 是否启用“转载规则限定模块”
-  default: cc_by
+  default: cc_by_sa
 
 # DaoVoice online contact
 daovoice:
