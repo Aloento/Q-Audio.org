@@ -6,7 +6,7 @@ menu:
     icon: fas fa-home
   聆听:
     url: /arts
-    icon: fas fa-tags
+    icon: fab fa-itunes-note
   文章:
     icon: fas fa-list
     children:
@@ -20,14 +20,14 @@ menu:
         url: /archives
         icon: fas fa-archive
   DAWs:
-    icon: fas fa-list
+    icon: fas fa-hat-wizard
     children:
       - name: Reaper
         url: /reaper
-        icon: fas fa-music
+        icon: fas fa-magic
       - name: Caustic
         url: /caustic
-        icon: fas fa-film
+        icon: fab fa-connectdevelop
   我们:
     icon: fas fa-list
     children:
