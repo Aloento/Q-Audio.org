@@ -4,31 +4,40 @@ menu:
   Index:
     url: /
     icon: fas fa-home
-  Tags:
-    url: /tags
+  聆听:
+    url: /arts
     icon: fas fa-tags
-  Categories:
-    url: /categories
-    icon: fas fa-bookmark
-  Archives:
-    url: /archives
-    icon: fas fa-archive
+  文章:
+    icon: fas fa-list
+    children:
+      - name: 标签
+        url: /tags
+        icon: fas fa-tags
+      - name: 分类
+        url: /categories
+        icon: fas fa-bookmark
+      - name: 归档
+        url: /archives
+        icon: fas fa-archive
   DAWs:
     icon: fas fa-list
     children:
       - name: Reaper
-        url: /
+        url: /reaper
         icon: fas fa-music
       - name: Caustic
-        url: /movies
+        url: /caustic
         icon: fas fa-film
   我们:
     icon: fas fa-list
     children:
-      - name: About
+      - name: 关于
         url: /about
         icon: fas fa-user-circle
-      - name: Friends
+      - name: 投稿
+        url: /upline
+        icon: fas fa-user-circle
+      - name: 友情链接
         url: /friends
         icon: fas fa-address-book
 
