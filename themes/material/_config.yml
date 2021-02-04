@@ -13,21 +13,24 @@ menu:
   Archives:
     url: /archives
     icon: fas fa-archive
-  Friends:
-    url: /friends
-    icon: fas fa-address-book
   DAWs:
     icon: fas fa-list
     children:
       - name: Reaper
-        url: /musics
+        url: /
         icon: fas fa-music
       - name: Caustic
         url: /movies
         icon: fas fa-film
-  About:
-    url: /about
-    icon: fas fa-user-circle
+  我们:
+    icon: fas fa-list
+    children:
+      - name: About
+        url: /about
+        icon: fas fa-user-circle
+      - name: Friends
+        url: /friends
+        icon: fas fa-address-book
 
 # Website start time.
 # 站点运行开始时间.
