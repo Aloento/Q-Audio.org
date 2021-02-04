@@ -3,7 +3,7 @@
 menu:
   Index:
     url: /
-    icon: fas fa-home
+    icon: fas fa-draw-polygon
   聆听:
     url: /arts
     icon: fab fa-itunes-note
@@ -29,17 +29,17 @@ menu:
         url: /caustic
         icon: fab fa-connectdevelop
   我们:
-    icon: fas fa-draw-polygon
+    icon: fas fa-list
     children:
       - name: 关于
         url: /about
         icon: fas fa-fire-alt
       - name: 投稿
         url: /upline
-        icon: fab fa-telegram-plane
+        icon: fas fa-seedling
       - name: 友情链接
         url: /friends
-        icon: fas fa-address-book
+        icon: fab fa-telegram-plane
 
 # Website start time.
 # 站点运行开始时间.
