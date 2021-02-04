@@ -167,7 +167,7 @@ reward:
 # 是否激活复制文章时追加博客和作者的版权信息.
 copyright:
   enable: true
-  minCharNumber: 0 # 至少复制多少个字符就追加版权信息.
+  minCharNumber: 1 # 至少复制多少个字符就追加版权信息.
   description: 感谢可爱的你来到我的Blog，如需转载请注明来自Aloento_SoarTeam
 
 # Whether to activate the mathjax, this is a global configuration, but the post still does not open the mathjax rendering.
@@ -524,10 +524,10 @@ tuxiaochao:
   productId:
 #背景canvas-nest
 canvas_nest:
-  enable: false
-  color: 0,0,255 # 线条颜色, 默认: '0,0,0' ；三个数字分别为(R,G,B)，注意用,分割
-  pointColor: 0,0,255 # 交点颜色, 默认: '0,0,0' ；三个数字分别为(R,G,B)，注意用,分割
-  opacity: 0.7 # 线条透明度（0~1）, 默认: 0.5
+  enable: true
+  color: 0,102,102 # 线条颜色, 默认: '0,0,0' ；三个数字分别为(R,G,B)，注意用,分割
+  pointColor: 0,96,109 # 交点颜色, 默认: '0,0,0' ；三个数字分别为(R,G,B)，注意用,分割
+  opacity: 0.5 # 线条透明度（0~1）, 默认: 0.5
   zIndex: -1 # 背景的 z-index 属性，css 属性用于控制所在层的位置, 默认: -1.
   count: 99 # 线条的总数量, 默认: 99
 
