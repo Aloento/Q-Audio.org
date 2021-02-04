@@ -8,7 +8,7 @@ menu:
     url: /arts
     icon: fab fa-itunes-note
   文章:
-    icon: fas fa-list
+    icon: fab fa-buffer
     children:
       - name: 标签
         url: /tags
@@ -29,14 +29,14 @@ menu:
         url: /caustic
         icon: fab fa-connectdevelop
   我们:
-    icon: fas fa-list
+    icon: fas fa-draw-polygon
     children:
       - name: 关于
         url: /about
-        icon: fas fa-user-circle
+        icon: fas fa-fire-alt
       - name: 投稿
         url: /upline
-        icon: fas fa-user-circle
+        icon: fab fa-telegram-plane
       - name: 友情链接
         url: /friends
         icon: fas fa-address-book
