@@ -29,7 +29,7 @@ menu:
         url: /caustic
         icon: fab fa-connectdevelop
   我们:
-    icon: fas fa-leaf
+    icon: fab fa-envira
     children:
       - name: 关于
         url: /about
