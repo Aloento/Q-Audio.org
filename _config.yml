@@ -104,6 +104,10 @@ permalink_pinyin:
   enable: true
   separator: '-'
 
+search:
+  path: search.xml
+  field: post
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
