@@ -537,7 +537,6 @@ header .go-back i {
     padding: 0;
     border: 0;
     overflow: hidden;
-    background-position: center center;
     background-size: cover;
     transform: translate3d(0px, 0px, 0px);
 }
@@ -551,8 +550,9 @@ header .go-back i {
 }
 
 .bg-cover:after {
-    -webkit-animation: rainbow 60s infinite;
-    animation: rainbow 60s infinite;
+    /*-webkit-animation: rainbow 60s infinite;*/
+    /*animation: rainbow 60s infinite;*/
+    background: linear-gradient(135deg, #ff5db1 0%, rgba(0, 87, 137, 0.7) 100%);
 }
 
 .bg-cover:before,
