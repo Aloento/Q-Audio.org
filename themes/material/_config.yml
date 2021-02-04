@@ -334,7 +334,7 @@ minivaline:
   appId: XS4HGf29ojYFG6djzpEslRyh-MdYXbMMI # Your leancloud application appid
   appKey: LdjElMqznNI091sMLWF1WP6x # Your leancloud application appkey
   mode: DesertsP # DesertsP or xCss
-  placeholder: Write a Comment # Comment box placeholder
+  placeholder: 留下你的足迹~ # Comment box placeholder
   math: true # Support MathJax.
   md: true # Support Markdown.
   enableQQ: false # Enable QQ avatar API.
@@ -342,13 +342,13 @@ minivaline:
   visitor: true # Article reading statistics.
   maxNest: 6 # Sub-comment maximum nesting depth.
   pageSize: 6 # Pagination size.
-  adminEmailMd5: de8a7aa53d07e6b6bceb45c64027763d # The MD5 of Admin Email to show Admin Flag.[Just Only DesertsP Style mode]
+  adminEmailMd5: a35a520195c8b17714c7b00ee7126a31 # The MD5 of Admin Email to show Admin Flag.[Just Only DesertsP Style mode]
   tagMeta: # The String Array of Words to show Flag.[Just Only xCss Style mode]
     - 管理员
     - 小伙伴
     - 访客
   master: # The MD5 String Array of master Email to show master Flag.[Just Only xCss Style mode]
-    - de8a7aa53d07e6b6bceb45c64027763d
+    - a35a520195c8b17714c7b00ee7126a31
   friends: # The MD5 String Array of friends Email to show friends Flag.[Just Only xCss Style mode]
     - b5bd5d836c7a0091aa8473e79ed4c25e
     - adb7d1cd192658a55c0ad22a3309cecf
