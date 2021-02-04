@@ -533,21 +533,21 @@ canvas_nest:
 
 # 背景静止彩带.
 ribbon:
-  enable: false
-  size: 150 # 彩带大小, 默认: 90.
+  enable: true
+  size: 90 # 彩带大小, 默认: 90.
   alpha: 0.6 # 彩带透明度 (0 ~ 1), 默认: 0.6.
   zIndex: -1 # 背景的z-index属性，css属性用于控制所在层的位置, 默认: -1.
   clickChange: false  # 设置是否每次点击都更换彩带.
 
 # 背景动态彩带.
 ribbon_dynamic:
-  enable: false
+  enable: true
 
 # sharejs文章分享模块.
 # 支持顺序，可选项目为twitter, facebook, google, qq, qzone, wechat, weibo, douban, linkedin.
 sharejs:
   enable: true
-  sites: twitter,facebook,google,qq,qzone,wechat,weibo,douban,linkedin
+  sites: twitter,facebook,qq,qzone,wechat,weibo,douban,linkedin
 
 # addthis文章分享模块.
 addthis:
