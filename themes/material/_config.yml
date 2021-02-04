@@ -4,7 +4,7 @@ menu:
   Index:
     url: /
     icon: fas fa-draw-polygon
-  聆听:
+  画廊:
     url: /arts
     icon: fab fa-itunes-note
   文章:
@@ -29,7 +29,7 @@ menu:
         url: /caustic
         icon: fab fa-connectdevelop
   我们:
-    icon: fas fa-list
+    icon: fab fa-free-code-camp
     children:
       - name: 关于
         url: /about
