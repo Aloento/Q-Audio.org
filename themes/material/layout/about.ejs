@@ -42,9 +42,26 @@
                 </div>
 
                 <div class="introduction center-align" data-aos="fade-up"><%= theme.profile.introduction %></div>
-                <div id="articleContent" data-aos="fade-up"><%- page.content %></div>
+                <div class="card-content article-card-content" data-aos="fade-up">
+                    <% if (config.prismjs && config.prismjs.enable) { %>
+                        <link rel="stylesheet" href="<%- theme.jsDelivr.url %><%- url_for(theme.libs.css.prism) %>">
+                    <% } %>
+
+                    <% if (theme.code.break) { %>
+                        <style type="text/css">
+                            code[class*="language-"], pre[class*="language-"] {
+                                white-space: pre-wrap !important;
+                            }
+                        </style>
+                    <% } %>
+
+                    <div id="articleContent">
+                        <%- page.content %>
+                    </div>
+                </div>
             </div>
         </div>
+
         <div class="card">
             <div class="card-content">
                 <%- partial('_widget/post-charts') %>
