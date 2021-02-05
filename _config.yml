@@ -123,6 +123,8 @@ lazyload:
   onlypost: false
   loadingImg: /medias/loader.gif
 
+all_minifier: true
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
