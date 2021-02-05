@@ -136,9 +136,9 @@ indexbtn:
 # icon/button will not show up if you leave the corresponding socialLink empty
 # 首页 banner 中的第二行个人信息配置，留空即不启用
 socialLink:
-  github:
-  email:
-  rss:
+  github: https://github.com/Aloento
+  email: Aloento@Q-Audio.org
+  rss: true
 
 # Whether to activate the Post TOC, and Configure which title types are supported by TOC support.
 # You can add `toc: false` to the Front-matter of a post to turn off the TOC.

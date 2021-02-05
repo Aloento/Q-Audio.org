@@ -43,7 +43,10 @@
 
                 <div class="introduction center-align" data-aos="fade-up"><%= theme.profile.introduction %></div>
                 <div id="articleContent" data-aos="fade-up"><%- page.content %></div>
-
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
                 <%- partial('_widget/post-charts') %>
 
                 <% if (theme.myProjects && theme.myProjects.enable) { %>
@@ -57,7 +60,6 @@
                 <% if (theme.myGallery && theme.myGallery.enable) { %>
                     <%- partial('_widget/my-gallery') %>
                 <% } %>
-
             </div>
         </div>
     </div>
