@@ -434,7 +434,7 @@ libs:
   js:
     matery: /js/matery.js
     jquery: /libs/jquery/jquery.min.js
-    materialize: /libs/materialize/materialize.min.js # 1.0.0
+    materialize: /libs/materialize/materialize.js # 1.0.0
     masonry: /libs/masonry/masonry.pkgd.min.js # v4.0.0
     aos: /libs/aos/aos.js
     scrollProgress: /libs/scrollprogress/scrollProgress.min.js
