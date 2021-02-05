@@ -118,6 +118,11 @@ feed:
   content_limit_delim: ' '
   order_by: -date
 
+lazyload:
+  enable: true
+  onlypost: false
+  loadingImg: /medias/loader.gif
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
