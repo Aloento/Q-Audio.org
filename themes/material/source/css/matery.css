@@ -319,7 +319,7 @@ header .side-nav .mobile-head img {
 }
 
 header .side-nav .mobile-head .logo-name {
-    margin-top: -30px;
+    /*margin-top: -30px;*/
     padding-left: 10px;
     font-size: 1.5rem;
 }
@@ -538,6 +538,7 @@ header .go-back i {
     border: 0;
     overflow: hidden;
     background-size: cover;
+    background-position: top, center;
     transform: translate3d(0px, 0px, 0px);
 }
 
