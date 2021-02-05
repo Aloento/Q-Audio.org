@@ -10,7 +10,7 @@ body {
   background: $light-gray;
   color: $vue-navy;
   font-family: 'Source Sans Pro', sans-serif;
-  min-height: 1000px; 
+  min-height: 1000px;
 }
 
 .card-carousel-wrapper {
@@ -25,11 +25,11 @@ body {
   display: flex;
   justify-content: center;
   width: 640px;
-  
+
   &--overflow-container {
     overflow: hidden;
   }
-  
+
   &--nav__left,
   &--nav__right {
     display: inline-block;
@@ -42,21 +42,24 @@ body {
     cursor: pointer;
     margin: 0 10px;
     transition: transform 150ms linear;
+
     &[disabled] {
       opacity: 0.2;
       border-color: black;
     }
   }
-  
+
   &--nav__left {
     transform: rotate(-135deg);
+
     &:active {
       transform: rotate(-135deg) scale(0.9);
     }
   }
-  
+
   &--nav__right {
     transform: rotate(45deg);
+
     &:active {
       transform: rotate(45deg) scale(0.9);
     }
@@ -67,40 +70,40 @@ body {
   display: flex;
   transition: transform 150ms ease-out;
   transform: translatex(0px);
- 
+
   .card-carousel--card {
     margin: 0 10px;
     cursor: pointer;
-    box-shadow: 0 4px 15px 0 rgba(40,44,53,.06), 0 2px 2px 0 rgba(40,44,53,.08);
+    box-shadow: 0 4px 15px 0 rgba(40, 44, 53, .06), 0 2px 2px 0 rgba(40, 44, 53, .08);
     background-color: #fff;
     border-radius: 4px;
     z-index: 3;
     margin-bottom: 2px;
-    
+
     &:first-child {
       margin-left: 0;
     }
-    
+
     &:last-child {
       margin-right: 0;
     }
-    
+
     img {
       vertical-align: bottom;
       border-top-left-radius: 4px;
       border-top-right-radius: 4px;
       transition: opacity 150ms linear;
       user-select: none;
-      
+
       &:hover {
         opacity: 0.5;
       }
     }
-    
+
     &--footer {
       border-top: 0;
       padding: 7px 15px;
-      
+
       p {
         padding: 3px 0;
         margin: 0;
@@ -109,41 +112,41 @@ body {
         font-weight: 500;
         color: $vue-navy;
         user-select: none;
-        
+
         &:nth-of-type(2) {
           font-size: 12px;
           font-weight: 300;
           padding: 6px;
-          background: rgba(40,44,53,.06);
+          background: rgba(40, 44, 53, .06);
           display: inline-block;
           position: relative;
           margin-left: 4px;
           color: $gray;
-          
+
           &:before {
-            content:"";
-            float:left;
-            position:absolute;
-            top:0;
+            content: "";
+            float: left;
+            position: absolute;
+            top: 0;
             left: -12px;
-            width:0;
-            height:0;
-            border-color:transparent rgba(40,44,53,.06) transparent transparent;
-            border-style:solid;
-            border-width:12px 12px 12px 0;
-        }
-        
+            width: 0;
+            height: 0;
+            border-color: transparent rgba(40, 44, 53, .06) transparent transparent;
+            border-style: solid;
+            border-width: 12px 12px 12px 0;
+          }
+
           &:after {
-            content:"";
-            position:absolute;
-            top:10px;
-            left:-1px;
-            float:left;
-            width:4px;
-            height:4px;
+            content: "";
+            position: absolute;
+            top: 10px;
+            left: -1px;
+            float: left;
+            width: 4px;
+            height: 4px;
             border-radius: 2px;
             background: white;
-            box-shadow:-0px -0px 0px #004977;
+            box-shadow: -0px -0px 0px #004977;
           }
         }
       }
