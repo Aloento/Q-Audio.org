@@ -165,7 +165,7 @@
         </div>
     </div>
 
-    <%var isCommentEnable = theme.comment.enable && String(page.comment) !== 'false'; %>
+    <%var isCommentEnable = String(page.comment) !== 'false'; %>
     <% if (isCommentEnable) { %>
         <% if (theme.gitalk && theme.gitalk.enable) { %>
             <%- partial('_partial/gitalk') %>
