@@ -123,6 +123,9 @@ lazyload:
   onlypost: false
   loadingImg: /medias/loader.gif
 
+sitemap:
+  path: sitemap.xml
+
 all_minifier: true
 
 # Deployment
