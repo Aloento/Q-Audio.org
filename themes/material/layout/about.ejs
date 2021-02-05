@@ -8,7 +8,6 @@
 <%- partial('_partial/bg-cover') %>
 
 <main class="content">
-
     <div id="aboutme" class="container about-container">
         <div class="card">
             <div class="card-content">
@@ -43,6 +42,7 @@
                 </div>
 
                 <div class="introduction center-align" data-aos="fade-up"><%= theme.profile.introduction %></div>
+                <div id="articleContent" data-aos="fade-up"><%- page.content %></div>
 
                 <%- partial('_widget/post-charts') %>
 
