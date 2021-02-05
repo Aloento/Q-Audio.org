@@ -279,6 +279,9 @@ postCalendar: true
 
 # 畅言需要备案。
 
+comment:
+  enable: true
+
 # the Gitalk config，default disabled
 # Gitalk 评论模块的配置，默认为不激活
 gitalk:
