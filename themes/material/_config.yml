@@ -319,10 +319,37 @@ valine:
   notify: true
   verify: true
   visitor: true
-  avatar: 'retro' # Gravatar style : mm/identicon/monsterid/wavatar/retro/hide
+  avatar: retro # Gravatar style : mm/identicon/monsterid/wavatar/retro/hide
   pageSize: 10
-  placeholder: 'Just Go Go...' # Comment Box placeholder
+  placeholder: 'ヾﾉ≧∀≦)o来啊，快活啊!' # Comment Box placeholder
   background: /medias/comment_bg.png
+  count: true
+  enableQQ: true
+  recordIP: true
+  requiredFields:
+    - nick
+    - mail
+  guest_info:
+    - nick
+    - mail
+    - link
+  master:
+    - 628a481f5bed659d4823cc039d1d5a01  # md5加密后的博主邮箱
+    - a35a520195c8b17714c7b00ee7126a31
+  metaPlaceholder: # 输入框的背景文字
+    nick: 昵称/QQ号(必填)
+    mail: 邮箱(必填)
+    link: 网址(https://)
+  lang: zh-CN
+  tagMeta: # The String Array of Words to show Flag.[Just Only xCss Style mode]
+    - 神秘生物
+    - Q-Audio的伙伴们
+    - 可爱的你
+  friends: # The MD5 String Array of friends Email to show friends Flag.[Just Only xCss Style mode]
+    - 9b3ddf3f716079134a437d6673be0dbe
+    - 498d78d25e4feb55e040221529aef11a
+    - 6f0582197c919c8d6a38492340f7dc15
+    - 98930a9ebf86baaf04b96158c7e1c679
 
 # The configuration of the MiniValine comment module is not activated by default.
 # To use it, activate the configuration item and set appId and appKey.
@@ -446,7 +473,7 @@ libs:
     crypto: /libs/cryptojs/crypto-js.min.js
     echarts: /libs/echarts/echarts.min.js
     gitalk: /libs/gitalk/gitalk.min.js
-    valine: /libs/valine/Valine.min.js # 若想保持最新版，请替换为 https://unpkg.com/valine/dist/Valine.min.js  默认为 /libs/valine/Valine.min.js
+    valine: https://unpkg.com/valine/dist/Valine.min.js # 若想保持最新版，请替换为 https://unpkg.com/valine/dist/Valine.min.js  默认为 /libs/valine/Valine.min.js
     minivaline: /libs/minivaline/MiniValine.js
     jqcloud: /libs/jqcloud/jqcloud-1.0.4.min.js
     tocbot: /libs/tocbot/tocbot.min.js
