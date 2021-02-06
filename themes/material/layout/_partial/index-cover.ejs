@@ -48,6 +48,7 @@ site.posts.forEach(function (post) {
     }
 });
 var coverPostsCount = coverPosts.length;
+var notSpecial = String(page.special) !== 'true';
 %>
 
 <div class="carousel carousel-slider center index-cover" data-indicators="true" style="margin-top: -64px;">
@@ -63,26 +64,28 @@ var coverPostsCount = coverPosts.length;
     <div class="carousel-item red white-text bg-cover about-cover">
         <div class="container">
             <%- partial('_partial/bg-cover-content') %>
-
-            <div class="cover-btns">
-                <a href="<%=
-                [theme.dream, theme.music, theme.video, theme.recommend]
-                        .every(i => i.enable)? "#indexCard": "#articles"
-                %>" class="waves-effect waves-light btn">
-                    <i class="fa fa-angle-double-down"></i><%- __('startRead') %>
-                </a>
-
-                <% if (theme.indexbtn && theme.indexbtn.enable) { %>
-                    <a href="<%- url_for(theme.indexbtn.url) %>" class="waves-effect waves-light btn" target="_blank">
-                        <i class="<%- theme.indexbtn.icon %>"></i><%= theme.indexbtn.name %>
+            <% if (notSpecial) { %>
+                <div class="cover-btns">
+                    <a href="<%=
+                        [theme.dream, theme.music, theme.video, theme.recommend]
+                                .every(i => i.enable) ? "#indexCard" : "#articles"
+                    %>" class="waves-effect waves-light btn">
+                        <i class="fa fa-angle-double-down"></i><%- __('startRead') %>
                     </a>
-                <% } else if (theme.githubLink.enable) { %>
-                    <a href="<%- theme.githubLink.url %>" class="waves-effect waves-light btn" target="_blank">
-                        <i class="fab fa-github %>"></i><%= theme.githubLink.title %>
-                    </a>
-                <% } %>
-            </div>
-<!--            <div class="cover-social-link"><%- partial('_partial/social-link') %></div>-->
+
+                    <% if (theme.indexbtn && theme.indexbtn.enable) { %>
+                        <a href="<%- url_for(theme.indexbtn.url) %>" class="waves-effect waves-light btn"
+                           target="_blank">
+                            <i class="<%- theme.indexbtn.icon %>"></i><%= theme.indexbtn.name %>
+                        </a>
+                    <% } else if (theme.githubLink.enable) { %>
+                        <a href="<%- theme.githubLink.url %>" class="waves-effect waves-light btn" target="_blank">
+                            <i class="fab fa-github %>"></i><%= theme.githubLink.title %>
+                        </a>
+                    <% } %>
+                </div>
+            <% } %>
+            <!--            <div class="cover-social-link"><%- partial('_partial/social-link') %></div>-->
         </div>
     </div>
 
