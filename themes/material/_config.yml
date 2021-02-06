@@ -13,9 +13,6 @@ menu:
       - name: 标签
         url: /tags
         icon: fas fa-tags
-      - name: 分类
-        url: /categories
-        icon: fas fa-bookmark
       - name: 归档
         url: /archives
         icon: fas fa-archive

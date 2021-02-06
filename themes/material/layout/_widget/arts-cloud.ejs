@@ -18,11 +18,14 @@ var i = 0;
 var isCategory = is_category();
 %>
 
-<div id="category-cloud" class="container chip-container">
+<div id="arts-cloud" class="container chip-container">
     <div class="card">
         <div class="card-content">
             <div class="tag-title center-align">
-                <i class="fas fa-bookmark"></i>&nbsp;&nbsp;<%= __('postCategoryTitle') %>
+                <i class="fas fa-bookmark"></i>&nbsp;&nbsp;
+                <% if (isCategory) { %> <%- "由" + page.category + "呈现的作品" %>
+                <% } else { %> 选择一位Q-Audio成员
+                <% } %>
             </div>
             <div class="tag-chips">
                 <% if (site.categories && site.categories.length > 0) { %>

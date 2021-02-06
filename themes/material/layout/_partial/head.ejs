@@ -1,7 +1,7 @@
 <%
 var title = page.title;
 
-// tags, categories, about pages title
+// tags, Arts, about pages title
 if (title == 'tags') {
     title = __('tags');
 } else if (title == 'categories') {
@@ -19,7 +19,7 @@ if (is_archive()) {
         title += ': ' + page.year;
     }
 } else if (is_category()) {
-    title = __('category') + ': ' + page.category;
+    title = 'Artist: ' + page.category;
 } else if (is_tag()) {
     title = __('tag') + ': ' + page.tag;
 }
