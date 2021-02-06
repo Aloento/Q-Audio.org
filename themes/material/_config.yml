@@ -32,7 +32,7 @@ menu:
         url: /Q-Audio
         icon: fas fa-compact-disc
       - name: Aloento
-        url: /About
+        url: /Aloento
         icon: fas fa-fire-alt
       - name: 投稿留言
         url: /UpLine
