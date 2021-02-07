@@ -10899,7 +10899,7 @@ var $jscomp$this = this;
         fullWidth: false, // Change to full width styles
         indicators: false, // Toggle indicators
         noWrap: false, // Don't wrap around and cycle through items.
-        toggle: true,
+        special: false,
         onCycleTo: null // Callback for when a new slide is cycled to.
     };
 
@@ -10956,7 +10956,8 @@ var $jscomp$this = this;
             // Full Width carousel setup
             if (_this62.options.fullWidth) {
                 _this62.options.dist = 0;
-                _this62._setCarouselHeight();
+                if (_this62.options.special)
+                    _this62._setCarouselHeight();
 
                 // Offset fixed items when indicators.
                 if (_this62.showIndicators) {
@@ -10998,7 +10999,7 @@ var $jscomp$this = this;
                 return true;
             });
 
-            _this62._setupEventHandlers(_this62.options.toggle);
+            _this62._setupEventHandlers(_this62.options.special);
             _this62._scroll(_this62.offset);
             return _this62;
         }
