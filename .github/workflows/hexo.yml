@@ -2,7 +2,7 @@ name: Hexo
 
 on:
   push:
-    branches: [ master ]
+    branches: [ backend ]
 
 jobs:
   build:
