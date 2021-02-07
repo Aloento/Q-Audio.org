@@ -9,3 +9,5 @@ summary: 02 - The Dream Of Sea - Bell
 ---
 
 The Dream Of Sea
+![](img.jpg)
+![](cover.jpg)
