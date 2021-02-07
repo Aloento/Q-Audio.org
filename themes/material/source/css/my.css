@@ -526,15 +526,24 @@
     width: 128%;
 }
 
+.feature-image img {
+    width: 100%;
+}
+
+.feature-image #about {
+    padding-left: 140px;
+    margin-bottom: -24px;
+    width: 100%;
+}
+
 @media screen and (max-width: 768px) {
     .feature-image {
         width: 100%;
-        margin-bottom: 30px;
     }
-}
 
-.feature-image img {
-    width: 100%;
+    .feature-image #about {
+        padding-left: 0;
+    }
 }
 
 .feature-left {

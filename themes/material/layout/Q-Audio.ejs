@@ -12,50 +12,23 @@
         <div class="card">
             <div class="card-content">
                 <div class="row">
-                    <div class="post-statis col l4 hide-on-med-and-down" data-aos="zoom-in-right">
-                        <%- partial('_partial/post-statis') %>
-                    </div>
-                    <div class="col s12 m12 l4">
-                        <div class="profile center-align">
-                            <div class="avatar">
-                                <img src="/favicon.png"
-                                     class="circle responsive-img avatar-img">
-                            </div>
-                            <div class="author">
-                                <div class="post-statis hide-on-large-only" data-aos="zoom-in-right">
-                                    <%- partial('_partial/post-statis') %>
-                                </div>
-                                <div class="title"><%- config.author %></div>
-                                <div class="career"><%- theme.profile.career %></div>
-                                <div class="social-link hide-on-large-only" data-aos="zoom-in-left">
-                                    <%- partial('_partial/social-link') %>
-                                </div>
-                            </div>
+                    <div class="col-md-6 col-sm-7 col-md-pull-2 col-sm-pull-2">
+                        <div class="feature-image">
+                            <img id="about" alt="Q-Audio" src="/medias/Q-Audio.png">
                         </div>
                     </div>
-                    <div class="col l4 hide-on-med-and-down" data-aos="zoom-in-left">
-                        <div class="social-link">
-                            <%- partial('_partial/social-link') %>
-                        </div>
+                    <div class="title center-align">
+                        告诉你关于我的故事
                     </div>
-                </div>
-
-                <div class="introduction center-align" data-aos="fade-up"><%= theme.profile.introduction %></div>
-                <div class="card-content article-card-content" data-aos="fade-up">
-                    <% if (config.prismjs && config.prismjs.enable) { %>
-                        <link rel="stylesheet" href="<%- theme.jsDelivr.url %><%- url_for(theme.libs.css.prism) %>">
-                    <% } %>
-
-                    <% if (theme.code.break) { %>
-                        <style type="text/css">
-                            code[class*="language-"], pre[class*="language-"] {
-                                white-space: pre-wrap !important;
-                            }
-                        </style>
-                    <% } %>
-
-                    <div id="articleContent">
-                        <%- page.content %>
+                    <div class="col-md-6 col-md-5 col-sm-5">
+                        <div class="feature-left">
+                            <div class="col" style="text-align: justify">
+                                Q-Audio电子音乐厂牌创立于2015年初，隶属于SoarTeam<p><br>
+                                <p>我们秉承着 “让世界听到不一样的中国电音” 的初衷，和SoarTeam “开源开放，贡献共享” 的理念，与我们轻快，风格多为House的作品，为世界带来属于我们的轻电音</p><br>
+                                <p>在Q-Audio独特的管理方式，严格的作品质量审核制度下，每位音乐人都在团队的影响下快速发展着。交出的每一首作品都是精雕细琢，虽然不能与名画媲美，但心血实在的倾注， 让每一个人，每一首音乐，都充满感情</p><br>
+                                <p>非盈利的电音厂牌，让每一个人都有更多的发展空间，充足的资源与管理经验，使Q-Audio快速成长着。我们期待着每一个有梦想并付出行动的人加入我们，我们也希望有更多更好的作品从这里走出，让世界听到</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
