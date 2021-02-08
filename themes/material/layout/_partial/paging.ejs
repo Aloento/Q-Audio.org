@@ -4,8 +4,7 @@
             <% if (page.prev) { %>
                 <% if (page.title === "Q-Audio") { %>
                 <a href="<%- url_for(page.prev_link) + "#articles" %>"
-                <% } %>
-                <% else { %>
+                <% } else { %>
                         <a href="<%- url_for(page.prev_link) %>"
                 <% } %>
                    class="left btn-floating btn-large waves-effect waves-light bg-color">
@@ -24,8 +23,7 @@
             <% if (page.next) { %>
                 <% if (page.title === "Q-Audio") { %>
                     <a href="<%- url_for(page.next_link) + "#articles" %>"
-                <% } %>
-                <% else { %>
+                <% } else { %>
                     <a href="<%- url_for(page.next_link) %>"
                 <% } %>
                    class="right btn-floating btn-large waves-effect waves-light bg-color">
