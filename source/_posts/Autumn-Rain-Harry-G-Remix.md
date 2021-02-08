@@ -9,11 +9,47 @@ categories:
     - [3_key]
 ---
 
-Autumn Rain (Harry.G. Remix)
+## [Autumn Rain (Harry.G. Remix)]()
 
-不太悲凉的秋天  
-053  
-Powered By Q-Audio
+### OpenMusic
+{% aplayer "Autumn Rain (Harry.G. Remix)" "" "" "cover.jpg" %}
 
-![](img.jpg)
+### Metadata
+#### Track
+
+Name|Value
+---|:--:
+Artist|Harry.G.
+Title|Autumn Rain (Harry.G. Remix)
+Album|HOME
+Date|2015-03-03
+Genre|Electronic
+Composer|3_key
+Mixing|Aloento
+Track|22
+DAW|Caustic
+
+#### Release
+
+Name|Value
+---|:--:
+Duration|3:28.571
+Sampling|192 kHz
+Bit|485 kbps
+Format|Vorbis
+DAW|Reaper
+Picture|盈雪敝空
+Signature|053
+Copyright|Q-Audio
+
+#### Comment
+``` text
+不太悲凉的秋天
+```
+
+### Images
+#### Cover
 ![](cover.jpg)
+
+#### Background
+![](img.jpg)
