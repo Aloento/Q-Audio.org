@@ -9,9 +9,6 @@ categories:
     - [Monstar]
 ---
 
-Reality
-
-
 ## [Reality](https://github.com/SoarTeam/OpenMusic/raw/master/Original/07%20-%20Reality%20-%20Yubel.ogg)
 
 ### OpenMusic
