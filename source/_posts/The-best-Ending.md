@@ -7,10 +7,47 @@ summary: 19 - The best Ending - End
 categories: Harry.G.
 ---
 
-The best Ending
+## [The best Ending]()
 
-050  
-Powered By Q-Audio
+### OpenMusic
+{% aplayer "The best Ending" "Harry.G." "" "cover.jpg" %}
 
-![](img.jpg)
+### Metadata
+#### Track
+
+Name|Value
+---|:--:
+Artist|Harry.G.
+Title|The best Ending
+Album|End
+Date|2016-12-10
+Genre|Electronic
+Composer|Harry.G.
+Mixing|Aloento
+Track|19
+DAW|Caustic
+
+#### Release
+
+Name|Value
+---|:--:
+Duration|3:41.742
+Sampling|192 kHz
+Bit|558 kbps
+Format|Vorbis
+DAW|Reaper
+Picture|盈雪敝空
+Signature|050
+Copyright|Q-Audio
+
+#### Comment
+``` text
+NULL
+```
+
+### Images
+#### Cover
 ![](cover.jpg)
+
+#### Background
+![](img.jpg)

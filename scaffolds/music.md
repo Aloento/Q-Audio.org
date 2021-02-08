@@ -32,7 +32,7 @@ DAW|
 Name|Value
 ---|:--:
 Duration|
-Sampling| kHz
+Sampling|192 kHz
 Bit|
 Format|Vorbis
 DAW|Reaper
