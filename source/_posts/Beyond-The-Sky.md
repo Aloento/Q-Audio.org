@@ -36,7 +36,7 @@ Sampling|192 kHz
 Bit|522 kbps
 Format|Vorbis
 DAW|Reaper
-Picture|Donald Tong
+Picture|Iucas
 Signature|200
 Copyright|Q-Audio
 
