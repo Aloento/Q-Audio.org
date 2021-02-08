@@ -9,10 +9,10 @@ categories:
     - [3_key]
 ---
 
-## [Autumn Rain (Harry.G. Remix)]()
+## [Autumn Rain (Harry.G. Remix)](https://github.com/SoarTeam/OpenMusic/raw/master/Original/22%20-%20Autumn%20Rain%20(Harry.G.%20Remix)%20-%20Harry.G..ogg)
 
 ### OpenMusic
-{% aplayer "Autumn Rain (Harry.G. Remix)" "" "" "cover.jpg" %}
+{% aplayer "Autumn Rain (Harry.G. Remix)" "Harry.G." "https://github.com/SoarTeam/OpenMusic/raw/master/Original/22%20-%20Autumn%20Rain%20(Harry.G.%20Remix)%20-%20Harry.G..ogg" "cover.jpg" %}
 
 ### Metadata
 #### Track
