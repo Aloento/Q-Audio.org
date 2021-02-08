@@ -2,10 +2,10 @@
     <div class="row">
         <div class="col s6 m4 l4">
             <% if (page.prev) { %>
-                <% if (page.title === "Q-Audio") { %>
+                <% if (page.title === undefined) { %>
                 <a href="<%- url_for(page.prev_link) + "#articles" %>"
                 <% } else { %>
-                        <a href="<%- url_for(page.prev_link) %>"
+                    <a href="<%- url_for(page.prev_link) %>"
                 <% } %>
                    class="left btn-floating btn-large waves-effect waves-light bg-color">
                     <i class="fas fa-angle-left"></i>
@@ -21,7 +21,7 @@
         </div>
         <div class="col s6 m4 l4">
             <% if (page.next) { %>
-                <% if (page.title === "Q-Audio") { %>
+                <% if (page.title === undefined) { %>
                     <a href="<%- url_for(page.next_link) + "#articles" %>"
                 <% } else { %>
                     <a href="<%- url_for(page.next_link) %>"

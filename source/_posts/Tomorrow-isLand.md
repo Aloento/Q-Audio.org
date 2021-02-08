@@ -2,7 +2,7 @@
 title: Tomorrow isLand
 date: 2017-01-16 00:00:00
 special: true
-img: tomorrow-isLand/img.jpg
+img: tomorrow-island/img.jpg
 summary: 04 - Tomorrow isLand - iLand
 categories: Yubel
 ---
