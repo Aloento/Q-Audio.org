@@ -1,16 +1,16 @@
 <% if (site.posts && site.posts.length > 0) { %>
     <div class="statis">
-        <span class="count"><a href="<%- url_for('/') %>"><%- site.posts.length %></a></span>
+        <span class="count"><a href="<%- url_for('/archives') %>"><%- site.posts.length %></a></span>
         <span class="name"><%- __('posts') %></span>
     </div>
 <% } %>
 
-<% if (site.categories && site.categories.length > 0) { %>
-    <div class="statis">
-        <span class="count"><a href="<%- url_for('/Arts') %>"><%- site.categories.length %></a></span>
-        <span class="name"><%- __('categories') %></span>
-    </div>
-<% } %>
+<!--<% if (site.categories && site.categories.length > 0) { %>-->
+<!--    <div class="statis">-->
+<!--        <span class="count"><a href="<%- url_for('/Arts') %>"><%- site.categories.length %></a></span>-->
+<!--        <span class="name"><%- __('categories') %></span>-->
+<!--    </div>-->
+<!--<% } %>-->
 
 <% if (site.tags && site.tags.length > 0) { %>
     <div class="statis">
