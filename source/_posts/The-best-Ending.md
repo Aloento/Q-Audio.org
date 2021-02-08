@@ -7,10 +7,10 @@ summary: 19 - The best Ending - End
 categories: Harry.G.
 ---
 
-## [The best Ending]()
+## [The best Ending](https://github.com/SoarTeam/OpenMusic/raw/master/Original/19%20-%20The%20best%20Ending%20-%20Harry.G..ogg)
 
 ### OpenMusic
-{% aplayer "The best Ending" "Harry.G." "" "cover.jpg" %}
+{% aplayer "The best Ending" "Harry.G." "https://github.com/SoarTeam/OpenMusic/raw/master/Original/19%20-%20The%20best%20Ending%20-%20Harry.G..ogg" "cover.jpg" %}
 
 ### Metadata
 #### Track
