@@ -242,13 +242,13 @@ mySkills:
       percent: 20%
     Rust:
       background: 'linear-gradient(to right, #00BCD4 0%, #80DEEA 100%)'
-      percent: 6%
-    HTML5:
+      percent: 10%
+    Go:
       background: 'linear-gradient(to right, #4CAF50 0%, #81C784 100%)'
-      percent: 40%
-    Management:
+      percent: 5%
+    HTML5:
       background: 'linear-gradient(to right, #FFEB3B 0%, #FFF176 100%)'
-      percent: 70%
+      percent: 40%
 
 # config gallery of my photos in about page.
 # If you don't want to display this `Gallery` content, you can deactivate or delete this configuration.
