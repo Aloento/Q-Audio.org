@@ -132,6 +132,6 @@ all_minifier: true
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:SoarTeam/Q-Audio.org.git
+  repo: git@github.com:Aloento/Q-Audio.org.git
   branch: master
   message: "{{ now('YYYY-MM-DD HH:mm:ss') }}"
