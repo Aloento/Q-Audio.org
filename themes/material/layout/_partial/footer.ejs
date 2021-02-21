@@ -7,7 +7,7 @@
         <div class="col s12 m8 l8 copy-right">
             Copyright&nbsp;&copy;
             <% if (theme.time.year !== new Date().getFullYear()) { %>
-                <span id="year"><%- theme.time.year %>-<%- new Date().getFullYear() %></span>
+                <span id="year">2015 - <%- new Date().getFullYear() %></span>
             <% } else { %>
                 <span id="year"><%- theme.time.year %></span>
             <% } %>
@@ -17,7 +17,7 @@
 <!--            |&nbsp;Theme&nbsp;<a href="https://github.com/blinkfox/hexo-theme-matery" target="_blank">Matery</a>-->
             <br>
             <% if (theme.postInfo.totalCount) { %>
-                &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
+                &nbsp;<i class="fas fa-chart-area"></i>&nbsp;总字数:&nbsp;<span
                         class="white-color"><%= totalcount(site) %></span>&nbsp;字
             <% } %>
             <% let socialClass = '' %>
@@ -70,12 +70,12 @@
                         var diffSeconds = Math.floor((diff - (diffYears * 365 + diffDays) * days - diffHours * hours -
                             diffMinutes * minutes) / seconds);
                         if (startYear == todayYear) {
-                            document.getElementById("year").innerHTML = todayYear;
-                            document.getElementById("sitetime").innerHTML = "本站已安全运行 " + diffDays + " 天 " + diffHours +
+                            // document.getElementById("year").innerHTML = todayYear;
+                            document.getElementById("sitetime").innerHTML = "我在这里守候了 " + diffDays + " 天 " + diffHours +
                                 " 小时 " + diffMinutes + " 分钟 " + diffSeconds + " 秒";
                         } else {
-                            document.getElementById("year").innerHTML = startYear + " - " + todayYear;
-                            document.getElementById("sitetime").innerHTML = "本站已安全运行 " + diffYears + " 年 " + diffDays +
+                            // document.getElementById("year").innerHTML = startYear + " - " + todayYear;
+                            document.getElementById("sitetime").innerHTML = "我在这里守候了 " + diffYears + " 年 " + diffDays +
                                 " 天 " + diffHours + " 小时 " + diffMinutes + " 分钟 " + diffSeconds + " 秒";
                         }
                     }
