@@ -38,7 +38,7 @@ menu:
         url: /UpLine
         icon: fas fa-seedling
       - name: 友情链接
-        url: /Friends
+        url: /friends
         icon: fab fa-telegram-plane
 
 # Website start time.
