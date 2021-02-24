@@ -7,8 +7,6 @@ summary: 06 - The First Summer In Time - Yubel
 categories: Yubel
 ---
 
-The First Summer In Time
-
 ## [The First Summer In Time](https://github.com/SoarTeam/OpenMusic/raw/master/Original/06%20-%20The%20First%20Summer%20In%20Time%20-%20Yubel.ogg)
 
 ### OpenMusic
