@@ -3,7 +3,7 @@ title: DANGANRONPA! - (CyberPunk Remix)
 date: 2020-09-06 00:00:00
 special: true
 img: danganronpa-cyberpunk-remix/img.jpg
-summary: 02- DANGANRONPA! - (CyberPunk Remix) - EX
+summary: 02 - DANGANRONPA! - (CyberPunk Remix) - EX
 categories: Harry.G.
 ---
 
