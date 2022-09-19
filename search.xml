@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Falling&#39;to Stars</title>
+      <link href="/falling-to-stars/"/>
+      <url>/falling-to-stars/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Falling’to-Stars"><a href="#Falling’to-Stars" class="headerlink" title="Falling’to Stars"></a><a href="https://github.com/SoarTeam/OpenMusic/raw/master/Original/26%20-%20Falling'to%20Stars%20-%20Harry.G..ogg">Falling’to Stars</a></h2><h3 id="OpenMusic"><a href="#OpenMusic" class="headerlink" title="OpenMusic"></a>OpenMusic</h3>        <div id="aplayer-szwfOFzu" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-szwfOFzu"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Falling'to Stars",              author: "Harry.G.",              url: "https://github.com/SoarTeam/OpenMusic/raw/master/Original/26%20-%20Falling'to%20Stars%20-%20Harry.G..ogg",              pic: "/falling-to-stars/cover.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><h3 id="Metadata"><a href="#Metadata" class="headerlink" title="Metadata"></a>Metadata</h3><h4 id="Track"><a href="#Track" class="headerlink" title="Track"></a>Track</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Artist</td><td align="center">Harry.G.</td></tr><tr><td>Title</td><td align="center">Falling’to Stars</td></tr><tr><td>Album</td><td align="center">Magic</td></tr><tr><td>Date</td><td align="center">2021-08-08</td></tr><tr><td>Genre</td><td align="center">ACG</td></tr><tr><td>Composer</td><td align="center">Harry.G.</td></tr><tr><td>Mixing</td><td align="center">Aloento</td></tr><tr><td>Track</td><td align="center">26</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr></tbody></table><h4 id="Release"><a href="#Release" class="headerlink" title="Release"></a>Release</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Duration</td><td align="center">1:15.000</td></tr><tr><td>Sampling</td><td align="center">192 kHz</td></tr><tr><td>Bit</td><td align="center">624 kbps</td></tr><tr><td>Format</td><td align="center">Vorbis</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr><tr><td>Picture</td><td align="center">夜夜子</td></tr><tr><td>Signature</td><td align="center">N&#x2F;A</td></tr><tr><td>Copyright</td><td align="center">Q-Audio</td></tr></tbody></table><h4 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h4><pre class="line-numbers language-text" data-language="text"><code class="language-text">“坠入繁星的少女，心怀希望的星光。艰难前行于崎岖之路，为他人祈求救赎。”<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><h3 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h3><h4 id="Cover"><a href="#Cover" class="headerlink" title="Cover"></a>Cover</h4><p><img src="/cover.jpg"></p><h4 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h4><p><img src="/img.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Harry.G. </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Campbellii</title>
+      <link href="/campbellii/"/>
+      <url>/campbellii/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Campbellii"><a href="#Campbellii" class="headerlink" title="Campbellii"></a><a href="https://github.com/SoarTeam/OpenMusic/raw/master/Original/25%20-%20Campbellii%20-%20Harry.G..ogg">Campbellii</a></h2><h3 id="OpenMusic"><a href="#OpenMusic" class="headerlink" title="OpenMusic"></a>OpenMusic</h3>        <div id="aplayer-NnyZNVLB" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-NnyZNVLB"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Campbellii",              author: "Harry.G.",              url: "https://github.com/SoarTeam/OpenMusic/raw/master/Original/25%20-%20Campbellii%20-%20Harry.G..ogg",              pic: "/campbellii/cover.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><h3 id="Metadata"><a href="#Metadata" class="headerlink" title="Metadata"></a>Metadata</h3><h4 id="Track"><a href="#Track" class="headerlink" title="Track"></a>Track</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Artist</td><td align="center">Harry.G.</td></tr><tr><td>Title</td><td align="center">Campbellii</td></tr><tr><td>Album</td><td align="center">Magnolia</td></tr><tr><td>Date</td><td align="center">2021-04-10</td></tr><tr><td>Genre</td><td align="center">Symphony</td></tr><tr><td>Composer</td><td align="center">Harry.G.</td></tr><tr><td>Mixing</td><td align="center">Aloento</td></tr><tr><td>Track</td><td align="center">25</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr></tbody></table><h4 id="Release"><a href="#Release" class="headerlink" title="Release"></a>Release</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Duration</td><td align="center">6:41.391</td></tr><tr><td>Sampling</td><td align="center">192 kHz</td></tr><tr><td>Bit</td><td align="center">529 kbps</td></tr><tr><td>Format</td><td align="center">Vorbis</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr><tr><td>Picture</td><td align="center">零曦蓝音</td></tr><tr><td>Signature</td><td align="center">345</td></tr><tr><td>Copyright</td><td align="center">Q-Audio</td></tr></tbody></table><h4 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h4><pre class="line-numbers language-text" data-language="text"><code class="language-text">《滇藏木兰》陈冥兰，从小在战场上被发现，没有父母的记忆是战争的遗孤，被一个士兵收养后在军队里长大然而没多久养父就战死在了战场上小小年纪的冥兰握起了枪，像是替父报仇一样上了战场冥兰拥有着预知的超能力，在战场上展现了恐怖的力量局势一边倒，但因为冥兰没有接触过普通人的社会在生离死别已是家常便饭的战场上，变得愈发冷漠看着冥兰长大的大家都很着急最后找到了机会在战争结束后把冥兰送到了远离纷争的大城市靠着人脉当上了一个辅警后来由于世界各地超能力者的事情暴露了出来作为参战过的前士兵，冥兰成为了特殊队伍的队长只是，对一直都在夺走别人的性命的她而言拯救一个人比她想象的还要难得多她千辛万苦把命悬一线的人救了下来之后她感觉到了一种心灵上的蜕变她没有什么政治立场，也不在乎什么职场对她来说重要的事情只有一个“所有人都平安无事的回去，这就是我的正义”                  ———— 陈冥兰 队长<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h3><h4 id="Cover"><a href="#Cover" class="headerlink" title="Cover"></a>Cover</h4><p><img src="/cover.jpg"></p><h4 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h4><p><img src="/img.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Harry.G. </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Chalet World</title>
+      <link href="/chalet-world/"/>
+      <url>/chalet-world/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Chalet-World"><a href="#Chalet-World" class="headerlink" title="Chalet World"></a><a href="https://github.com/SoarTeam/OpenMusic/raw/master/Original/24%20-%20Chalet%20World%20-%20Harry.G..ogg">Chalet World</a></h2><h3 id="OpenMusic"><a href="#OpenMusic" class="headerlink" title="OpenMusic"></a>OpenMusic</h3>        <div id="aplayer-QwKdAdyO" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-QwKdAdyO"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Chalet World",              author: "Harry.G.",              url: "https://github.com/SoarTeam/OpenMusic/raw/master/Original/24%20-%20Chalet%20World%20-%20Harry.G..ogg",              pic: "/chalet-world/cover.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><h3 id="Metadata"><a href="#Metadata" class="headerlink" title="Metadata"></a>Metadata</h3><h4 id="Track"><a href="#Track" class="headerlink" title="Track"></a>Track</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Artist</td><td align="center">Harry.G.</td></tr><tr><td>Title</td><td align="center">Chalet World</td></tr><tr><td>Album</td><td align="center">Glamor</td></tr><tr><td>Date</td><td align="center">2020-10-26</td></tr><tr><td>Genre</td><td align="center">Orchestral</td></tr><tr><td>Composer</td><td align="center">Harry.G.</td></tr><tr><td>Mixing</td><td align="center">Aloento</td></tr><tr><td>Track</td><td align="center">24</td></tr><tr><td>DAW</td><td align="center">FL Studio</td></tr></tbody></table><h4 id="Release"><a href="#Release" class="headerlink" title="Release"></a>Release</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Duration</td><td align="center">5:25.970</td></tr><tr><td>Sampling</td><td align="center">192 kHz</td></tr><tr><td>Bit</td><td align="center">506 kbps</td></tr><tr><td>Format</td><td align="center">Vorbis</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr><tr><td>Picture</td><td align="center">千桁多萝西</td></tr><tr><td>Signature</td><td align="center">442</td></tr><tr><td>Copyright</td><td align="center">Q-Audio</td></tr></tbody></table><h4 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h4><pre class="line-numbers language-text" data-language="text"><code class="language-text">千重桁古书堂嘘，书店内禁止喧哗<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><h3 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h3><h4 id="Cover"><a href="#Cover" class="headerlink" title="Cover"></a>Cover</h4><p><img src="/cover.jpg"></p><h4 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h4><p><img src="/img.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Harry.G. </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>DANGANRONPA! - (CyberPunk Remix)</title>
+      <link href="/danganronpa-cyberpunk-remix/"/>
+      <url>/danganronpa-cyberpunk-remix/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="DANGANRONPA-CyberPunk-Remix"><a href="#DANGANRONPA-CyberPunk-Remix" class="headerlink" title="DANGANRONPA! - (CyberPunk Remix)"></a><a href="https://github.com/SoarTeam/OpenMusic/raw/master/Remix/02%20-%20DANGANRONPA!%20-%20(CyberPunk%20Remix)%20-%20Harry.G..ogg">DANGANRONPA! - (CyberPunk Remix)</a></h2><h3 id="OpenMusic"><a href="#OpenMusic" class="headerlink" title="OpenMusic"></a>OpenMusic</h3>        <div id="aplayer-gwUffqUD" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-gwUffqUD"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "DANGANRONPA! - (CyberPunk Remix)",              author: "Harry.G.",              url: "https://github.com/SoarTeam/OpenMusic/raw/master/Remix/02%20-%20DANGANRONPA!%20-%20(CyberPunk%20Remix)%20-%20Harry.G..ogg",              pic: "/danganronpa-cyberpunk-remix/cover.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><h3 id="Metadata"><a href="#Metadata" class="headerlink" title="Metadata"></a>Metadata</h3><h4 id="Track"><a href="#Track" class="headerlink" title="Track"></a>Track</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Artist</td><td align="center">Harry.G.</td></tr><tr><td>Title</td><td align="center">DANGANRONPA! - (CyberPunk Remix)</td></tr><tr><td>Album</td><td align="center">EX</td></tr><tr><td>Date</td><td align="center">2020-09-06</td></tr><tr><td>Genre</td><td align="center">EDM</td></tr><tr><td>Composer</td><td align="center">高田雅史</td></tr><tr><td>Mixing</td><td align="center">Aloento</td></tr><tr><td>Track</td><td align="center">02</td></tr><tr><td>DAW</td><td align="center">FL Studio</td></tr></tbody></table><h4 id="Release"><a href="#Release" class="headerlink" title="Release"></a>Release</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Duration</td><td align="center">2:22.154</td></tr><tr><td>Sampling</td><td align="center">192 kHz</td></tr><tr><td>Bit</td><td align="center">838 kbps</td></tr><tr><td>Format</td><td align="center">Vorbis</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr><tr><td>Picture</td><td align="center">N.E.T.</td></tr><tr><td>Signature</td><td align="center">112</td></tr><tr><td>Copyright</td><td align="center">Q-Audio</td></tr></tbody></table><h4 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h4><pre class="line-numbers language-text" data-language="text"><code class="language-text">Q-Audio授权给N.E.T.工作室使用除N.E.T.工作室外，其他人不得使用仅限非商业使用<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre><h3 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h3><h4 id="Cover"><a href="#Cover" class="headerlink" title="Cover"></a>Cover</h4><p><img src="/cover.jpg"></p><h4 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h4><p><img src="/img.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Harry.G. </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>SunPlus</title>
+      <link href="/sunplus/"/>
+      <url>/sunplus/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="SunPlus"><a href="#SunPlus" class="headerlink" title="SunPlus"></a><a href="https://github.com/SoarTeam/OpenMusic/raw/master/Original/23%20-%20SunPlus%20-%20Firework.ogg">SunPlus</a></h2><h3 id="OpenMusic"><a href="#OpenMusic" class="headerlink" title="OpenMusic"></a>OpenMusic</h3>        <div id="aplayer-bTVeyZSr" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-bTVeyZSr"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "SunPlus",              author: "Firework",              url: "https://github.com/SoarTeam/OpenMusic/raw/master/Original/23%20-%20SunPlus%20-%20Firework.ogg",              pic: "/sunplus/cover.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><h3 id="Metadata"><a href="#Metadata" class="headerlink" title="Metadata"></a>Metadata</h3><h4 id="Track"><a href="#Track" class="headerlink" title="Track"></a>Track</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Artist</td><td align="center">Firework</td></tr><tr><td>Title</td><td align="center">SunPlus</td></tr><tr><td>Album</td><td align="center">◢◤</td></tr><tr><td>Date</td><td align="center">2019-09-09</td></tr><tr><td>Genre</td><td align="center">Electronic</td></tr><tr><td>Composer</td><td align="center">Firework</td></tr><tr><td>Mixing</td><td align="center">Aloento</td></tr><tr><td>Track</td><td align="center">23</td></tr><tr><td>DAW</td><td align="center">FL Studio</td></tr></tbody></table><h4 id="Release"><a href="#Release" class="headerlink" title="Release"></a>Release</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Duration</td><td align="center">3:51.567</td></tr><tr><td>Sampling</td><td align="center">192 kHz</td></tr><tr><td>Bit</td><td align="center">581 kbps</td></tr><tr><td>Format</td><td align="center">Vorbis</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr><tr><td>Picture</td><td align="center">盈雪敝空</td></tr><tr><td>Signature</td><td align="center">150</td></tr><tr><td>Copyright</td><td align="center">Q-Audio</td></tr></tbody></table><h4 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h4><pre class="line-numbers language-text" data-language="text"><code class="language-text">你的时间静止而我还要继续等着我一起看日出<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><h3 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h3><h4 id="Cover"><a href="#Cover" class="headerlink" title="Cover"></a>Cover</h4><p><img src="/cover.jpg"></p><h4 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h4><p><img src="/img.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Firework </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Rainbow</title>
+      <link href="/rainbow/"/>
+      <url>/rainbow/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Rainbow"><a href="#Rainbow" class="headerlink" title="Rainbow"></a><a href="https://github.com/SoarTeam/OpenMusic/raw/master/Original/05%20-%20Rainbow%20-%20Monstar.ogg">Rainbow</a></h2><h3 id="OpenMusic"><a href="#OpenMusic" class="headerlink" title="OpenMusic"></a>OpenMusic</h3>        <div id="aplayer-hfUfDtcL" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-hfUfDtcL"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Rainbow",              author: "Monstar",              url: "https://github.com/SoarTeam/OpenMusic/raw/master/Original/05%20-%20Rainbow%20-%20Monstar.ogg",              pic: "/rainbow/cover.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><h3 id="Metadata"><a href="#Metadata" class="headerlink" title="Metadata"></a>Metadata</h3><h4 id="Track"><a href="#Track" class="headerlink" title="Track"></a>Track</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Artist</td><td align="center">Monstar</td></tr><tr><td>Title</td><td align="center">Rainbow</td></tr><tr><td>Album</td><td align="center">Hyphen</td></tr><tr><td>Date</td><td align="center">2018-07-15</td></tr><tr><td>Genre</td><td align="center">Electronic</td></tr><tr><td>Composer</td><td align="center">Monstar</td></tr><tr><td>Mixing</td><td align="center">Aloento</td></tr><tr><td>Track</td><td align="center">05</td></tr><tr><td>DAW</td><td align="center">FL Studio</td></tr></tbody></table><h4 id="Release"><a href="#Release" class="headerlink" title="Release"></a>Release</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Duration</td><td align="center">4:02.538</td></tr><tr><td>Sampling</td><td align="center">192 kHz</td></tr><tr><td>Bit</td><td align="center">565 kbps</td></tr><tr><td>Format</td><td align="center">Vorbis</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr><tr><td>Picture</td><td align="center">James Wheeler</td></tr><tr><td>Signature</td><td align="center">042</td></tr><tr><td>Copyright</td><td align="center">Q-Audio</td></tr></tbody></table><h4 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h4><pre class="line-numbers language-text" data-language="text"><code class="language-text">在漫长的雨季之后空气变得极其湿润晴空万里之时一缕阳光架起一座彩虹桥<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h3><h4 id="Cover"><a href="#Cover" class="headerlink" title="Cover"></a>Cover</h4><p><img src="/cover.jpg"></p><h4 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h4><p><img src="/img.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Monstar </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>The Dream of Sea</title>
+      <link href="/the-dream-of-sea/"/>
+      <url>/the-dream-of-sea/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="The-Dream-Of-Sea"><a href="#The-Dream-Of-Sea" class="headerlink" title="The Dream Of Sea"></a><a href="https://github.com/SoarTeam/OpenMusic/raw/master/Original/02%20-%20The%20Dream%20Of%20Sea%20-%20Harry.G..ogg">The Dream Of Sea</a></h2><h3 id="OpenMusic"><a href="#OpenMusic" class="headerlink" title="OpenMusic"></a>OpenMusic</h3>        <div id="aplayer-LtlrMqkO" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-LtlrMqkO"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "The Dream Of Sea",              author: "Harry.G.",              url: "https://github.com/SoarTeam/OpenMusic/raw/master/Original/02%20-%20The%20Dream%20Of%20Sea%20-%20Harry.G..ogg",              pic: "/the-dream-of-sea/cover.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><h3 id="Metadata"><a href="#Metadata" class="headerlink" title="Metadata"></a>Metadata</h3><h4 id="Track"><a href="#Track" class="headerlink" title="Track"></a>Track</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Artist</td><td align="center">Harry.G.</td></tr><tr><td>Title</td><td align="center">The Dream Of Sea</td></tr><tr><td>Album</td><td align="center">Bell</td></tr><tr><td>Date</td><td align="center">2018-03-30</td></tr><tr><td>Genre</td><td align="center">Electronic</td></tr><tr><td>Composer</td><td align="center">Harry.G.</td></tr><tr><td>Mixing</td><td align="center">Aloento</td></tr><tr><td>Track</td><td align="center">02</td></tr><tr><td>DAW</td><td align="center">FL Studio</td></tr></tbody></table><h4 id="Release"><a href="#Release" class="headerlink" title="Release"></a>Release</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Duration</td><td align="center">5:42.545</td></tr><tr><td>Sampling</td><td align="center">192 kHz</td></tr><tr><td>Bit</td><td align="center">548 kbps</td></tr><tr><td>Format</td><td align="center">Vorbis</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr><tr><td>Picture</td><td align="center">Pixabay</td></tr><tr><td>Signature</td><td align="center">220</td></tr><tr><td>Copyright</td><td align="center">Q-Audio</td></tr></tbody></table><h4 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h4><pre class="line-numbers language-text" data-language="text"><code class="language-text">一个在云中的海一个在海里的你纷乱嘈杂中宁静我用破碎的鼓半残的三角铁用尽最后的力画出盛夏<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h3><h4 id="Cover"><a href="#Cover" class="headerlink" title="Cover"></a>Cover</h4><p><img src="/cover.jpg"></p><h4 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h4><p><img src="/img.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Harry.G. </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Rain 2</title>
+      <link href="/rain-2/"/>
+      <url>/rain-2/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Rain-2"><a href="#Rain-2" class="headerlink" title="Rain 2"></a><a href="https://github.com/SoarTeam/OpenMusic/raw/master/Original/10%20-%20Rain%202%20-%20Sora..ogg">Rain 2</a></h2><h3 id="OpenMusic"><a href="#OpenMusic" class="headerlink" title="OpenMusic"></a>OpenMusic</h3>        <div id="aplayer-THSdEGbH" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-THSdEGbH"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Rain 2",              author: "Sora.",              url: "https://github.com/SoarTeam/OpenMusic/raw/master/Original/10%20-%20Rain%202%20-%20Sora..ogg",              pic: "/rain-2/cover.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><h3 id="Metadata"><a href="#Metadata" class="headerlink" title="Metadata"></a>Metadata</h3><h4 id="Track"><a href="#Track" class="headerlink" title="Track"></a>Track</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Artist</td><td align="center">Sora.</td></tr><tr><td>Title</td><td align="center">Rain 2</td></tr><tr><td>Album</td><td align="center">Rain</td></tr><tr><td>Date</td><td align="center">2018-02-07</td></tr><tr><td>Genre</td><td align="center">Electronic</td></tr><tr><td>Composer</td><td align="center">Sora.</td></tr><tr><td>Mixing</td><td align="center">Aloento</td></tr><tr><td>Track</td><td align="center">10</td></tr><tr><td>DAW</td><td align="center">Caustic</td></tr></tbody></table><h4 id="Release"><a href="#Release" class="headerlink" title="Release"></a>Release</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Duration</td><td align="center">3:08.586</td></tr><tr><td>Sampling</td><td align="center">192 kHz</td></tr><tr><td>Bit</td><td align="center">491 kbps</td></tr><tr><td>Format</td><td align="center">Vorbis</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr><tr><td>Picture</td><td align="center">Aloento</td></tr><tr><td>Signature</td><td align="center">205</td></tr><tr><td>Copyright</td><td align="center">Q-Audio</td></tr></tbody></table><h4 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h4><pre class="line-numbers language-text" data-language="text"><code class="language-text">那个叫Yui的少女又再次站在了雨中Yui Rain<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre><h3 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h3><h4 id="Cover"><a href="#Cover" class="headerlink" title="Cover"></a>Cover</h4><p><img src="/cover.jpg"></p><h4 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h4><p><img src="/img.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Sora. </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>The Sound</title>
+      <link href="/the-sound/"/>
+      <url>/the-sound/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="The-Sound"><a href="#The-Sound" class="headerlink" title="The Sound"></a><a href="https://github.com/SoarTeam/OpenMusic/raw/master/Original/01%20-%20The%20Sound%20-%20Monstar.ogg">The Sound</a></h2><h3 id="OpenMusic"><a href="#OpenMusic" class="headerlink" title="OpenMusic"></a>OpenMusic</h3>        <div id="aplayer-HtqKjExd" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-HtqKjExd"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "The Sound",              author: "Monstar",              url: "https://github.com/SoarTeam/OpenMusic/raw/master/Original/01%20-%20The%20Sound%20-%20Monstar.ogg",              pic: "/the-sound/cover.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><h3 id="Metadata"><a href="#Metadata" class="headerlink" title="Metadata"></a>Metadata</h3><h4 id="Track"><a href="#Track" class="headerlink" title="Track"></a>Track</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Artist</td><td align="center">Monstar</td></tr><tr><td>Title</td><td align="center">The Sound</td></tr><tr><td>Album</td><td align="center">Ethereal</td></tr><tr><td>Date</td><td align="center">2018-02-06</td></tr><tr><td>Genre</td><td align="center">Electronic</td></tr><tr><td>Composer</td><td align="center">Monstar</td></tr><tr><td>Mixing</td><td align="center">Aloento</td></tr><tr><td>Track</td><td align="center">01</td></tr><tr><td>DAW</td><td align="center">Caustic</td></tr></tbody></table><h4 id="Release"><a href="#Release" class="headerlink" title="Release"></a>Release</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Duration</td><td align="center">5:28.181</td></tr><tr><td>Sampling</td><td align="center">192 kHz</td></tr><tr><td>Bit</td><td align="center">558 kbps</td></tr><tr><td>Format</td><td align="center">Vorbis</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr><tr><td>Picture</td><td align="center">Grafixart_photo</td></tr><tr><td>Signature</td><td align="center">300</td></tr><tr><td>Copyright</td><td align="center">Q-Audio</td></tr></tbody></table><h4 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h4><pre class="line-numbers language-text" data-language="text"><code class="language-text">欲待曲终寻问取人不见，数峰青<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><h3 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h3><h4 id="Cover"><a href="#Cover" class="headerlink" title="Cover"></a>Cover</h4><p><img src="/cover.jpg"></p><h4 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h4><p><img src="/img.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Monstar </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Summer Morning</title>
+      <link href="/summer-morning/"/>
+      <url>/summer-morning/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Summer-Morning"><a href="#Summer-Morning" class="headerlink" title="Summer Morning"></a><a href="https://github.com/SoarTeam/OpenMusic/raw/master/Original/18%20-%20Summer%20Moring%20-%20Harry.G..ogg">Summer Morning</a></h2><h3 id="OpenMusic"><a href="#OpenMusic" class="headerlink" title="OpenMusic"></a>OpenMusic</h3>        <div id="aplayer-aQRzrqdb" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-aQRzrqdb"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Summer Morning",              author: "Harry.G.",              url: "https://github.com/SoarTeam/OpenMusic/raw/master/Original/18%20-%20Summer%20Moring%20-%20Harry.G..ogg",              pic: "/summer-morning/cover.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><h3 id="Metadata"><a href="#Metadata" class="headerlink" title="Metadata"></a>Metadata</h3><h4 id="Track"><a href="#Track" class="headerlink" title="Track"></a>Track</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Artist</td><td align="center">Harry.G.</td></tr><tr><td>Title</td><td align="center">Summer Morning</td></tr><tr><td>Album</td><td align="center">Morning</td></tr><tr><td>Date</td><td align="center">2017-08-22</td></tr><tr><td>Genre</td><td align="center">Electronic</td></tr><tr><td>Composer</td><td align="center">Harry.G.</td></tr><tr><td>Mixing</td><td align="center">Aloento</td></tr><tr><td>Track</td><td align="center">18</td></tr><tr><td>DAW</td><td align="center">Caustic</td></tr></tbody></table><h4 id="Release"><a href="#Release" class="headerlink" title="Release"></a>Release</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Duration</td><td align="center">4:05.154</td></tr><tr><td>Sampling</td><td align="center">192 kHz</td></tr><tr><td>Bit</td><td align="center">553 kbps</td></tr><tr><td>Format</td><td align="center">Vorbis</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr><tr><td>Picture</td><td align="center">icon0</td></tr><tr><td>Signature</td><td align="center">234</td></tr><tr><td>Copyright</td><td align="center">Q-Audio</td></tr></tbody></table><h4 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h4><pre class="line-numbers language-text" data-language="text"><code class="language-text">NULL<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h3 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h3><h4 id="Cover"><a href="#Cover" class="headerlink" title="Cover"></a>Cover</h4><p><img src="/cover.jpg"></p><h4 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h4><p><img src="/img.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Harry.G. </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Beyond the Sky</title>
+      <link href="/beyond-the-sky/"/>
+      <url>/beyond-the-sky/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Beyond-The-Sky"><a href="#Beyond-The-Sky" class="headerlink" title="Beyond The Sky"></a><a href="https://github.com/SoarTeam/OpenMusic/raw/master/Original/13%20-%20Beyond%20The%20Sky%20-%20Monstar.ogg">Beyond The Sky</a></h2><h3 id="OpenMusic"><a href="#OpenMusic" class="headerlink" title="OpenMusic"></a>OpenMusic</h3>        <div id="aplayer-NJvbjpPH" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-NJvbjpPH"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Beyond The Sky",              author: "Monstar",              url: "https://github.com/SoarTeam/OpenMusic/raw/master/Original/13%20-%20Beyond%20The%20Sky%20-%20Monstar.ogg",              pic: "/beyond-the-sky/cover.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><h3 id="Metadata"><a href="#Metadata" class="headerlink" title="Metadata"></a>Metadata</h3><h4 id="Track"><a href="#Track" class="headerlink" title="Track"></a>Track</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Artist</td><td align="center">Monstar</td></tr><tr><td>Title</td><td align="center">Beyond The Sky</td></tr><tr><td>Album</td><td align="center">Reality</td></tr><tr><td>Date</td><td align="center">2017-08-07</td></tr><tr><td>Genre</td><td align="center">Electronic</td></tr><tr><td>Composer</td><td align="center">Monstar</td></tr><tr><td>Mixing</td><td align="center">Aloento</td></tr><tr><td>Track</td><td align="center">13</td></tr><tr><td>DAW</td><td align="center">Caustic</td></tr></tbody></table><h4 id="Release"><a href="#Release" class="headerlink" title="Release"></a>Release</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Duration</td><td align="center">2:34.649</td></tr><tr><td>Sampling</td><td align="center">192 kHz</td></tr><tr><td>Bit</td><td align="center">522 kbps</td></tr><tr><td>Format</td><td align="center">Vorbis</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr><tr><td>Picture</td><td align="center">Iucas</td></tr><tr><td>Signature</td><td align="center">200</td></tr><tr><td>Copyright</td><td align="center">Q-Audio</td></tr></tbody></table><h4 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h4><pre class="line-numbers language-text" data-language="text"><code class="language-text">越过那片天看到真实的无拘无束的你<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><h3 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h3><h4 id="Cover"><a href="#Cover" class="headerlink" title="Cover"></a>Cover</h4><p><img src="/cover.jpg"></p><h4 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h4><p><img src="/img.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Monstar </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>The First Summer in Time</title>
+      <link href="/the-first-summer-in-time/"/>
+      <url>/the-first-summer-in-time/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="The-First-Summer-In-Time"><a href="#The-First-Summer-In-Time" class="headerlink" title="The First Summer In Time"></a><a href="https://github.com/SoarTeam/OpenMusic/raw/master/Original/06%20-%20The%20First%20Summer%20In%20Time%20-%20Yubel.ogg">The First Summer In Time</a></h2><h3 id="OpenMusic"><a href="#OpenMusic" class="headerlink" title="OpenMusic"></a>OpenMusic</h3>        <div id="aplayer-yUsFrrKl" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-yUsFrrKl"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "The First Summer In Time",              author: "Yubel",              url: "https://github.com/SoarTeam/OpenMusic/raw/master/Original/06%20-%20The%20First%20Summer%20In%20Time%20-%20Yubel.ogg",              pic: "/the-first-summer-in-time/cover.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><h3 id="Metadata"><a href="#Metadata" class="headerlink" title="Metadata"></a>Metadata</h3><h4 id="Track"><a href="#Track" class="headerlink" title="Track"></a>Track</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Artist</td><td align="center">Yubel</td></tr><tr><td>Title</td><td align="center">The First Summer In Time</td></tr><tr><td>Album</td><td align="center">Yubel</td></tr><tr><td>Date</td><td align="center">2017-08-07</td></tr><tr><td>Genre</td><td align="center">Electronic</td></tr><tr><td>Composer</td><td align="center">Yubel</td></tr><tr><td>Mixing</td><td align="center">Aloento</td></tr><tr><td>Track</td><td align="center">06</td></tr><tr><td>DAW</td><td align="center">Caustic</td></tr></tbody></table><h4 id="Release"><a href="#Release" class="headerlink" title="Release"></a>Release</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Duration</td><td align="center">5:00.936</td></tr><tr><td>Sampling</td><td align="center">192 kHz</td></tr><tr><td>Bit</td><td align="center">612 kbps</td></tr><tr><td>Format</td><td align="center">Vorbis</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr><tr><td>Picture</td><td align="center">Aloento</td></tr><tr><td>Signature</td><td align="center">234</td></tr><tr><td>Copyright</td><td align="center">Q-Audio</td></tr></tbody></table><h4 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h4><pre class="line-numbers language-text" data-language="text"><code class="language-text">See you againNext Time<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><h3 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h3><h4 id="Cover"><a href="#Cover" class="headerlink" title="Cover"></a>Cover</h4><p><img src="/cover.jpg"></p><h4 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h4><p><img src="/img.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Yubel </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Yui 2 Back</title>
+      <link href="/yui-2-back/"/>
+      <url>/yui-2-back/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Yui-2-Back"><a href="#Yui-2-Back" class="headerlink" title="Yui 2 Back"></a><a href="https://github.com/SoarTeam/OpenMusic/raw/master/Original/12%20-%20Yui%202%20Back%20-%20Sora..ogg">Yui 2 Back</a></h2><h3 id="OpenMusic"><a href="#OpenMusic" class="headerlink" title="OpenMusic"></a>OpenMusic</h3>        <div id="aplayer-mlwZffaj" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-mlwZffaj"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Yui 2 Back",              author: "Sora.",              url: "https://github.com/SoarTeam/OpenMusic/raw/master/Original/12%20-%20Yui%202%20Back%20-%20Sora..ogg",              pic: "/yui-2-back/cover.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><h3 id="Metadata"><a href="#Metadata" class="headerlink" title="Metadata"></a>Metadata</h3><h4 id="Track"><a href="#Track" class="headerlink" title="Track"></a>Track</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Artist</td><td align="center">Sora.</td></tr><tr><td>Title</td><td align="center">Yui 2 Back</td></tr><tr><td>Album</td><td align="center">Yui</td></tr><tr><td>Date</td><td align="center">2017-05-13</td></tr><tr><td>Genre</td><td align="center">Electronic</td></tr><tr><td>Composer</td><td align="center">Sora.</td></tr><tr><td>Mixing</td><td align="center">Aloento</td></tr><tr><td>Track</td><td align="center">12</td></tr><tr><td>DAW</td><td align="center">Caustic</td></tr></tbody></table><h4 id="Release"><a href="#Release" class="headerlink" title="Release"></a>Release</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Duration</td><td align="center">3:35.699</td></tr><tr><td>Sampling</td><td align="center">192 kHz</td></tr><tr><td>Bit</td><td align="center">628 kbps</td></tr><tr><td>Format</td><td align="center">Vorbis</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr><tr><td>Picture</td><td align="center">James Wheeler</td></tr><tr><td>Signature</td><td align="center">105</td></tr><tr><td>Copyright</td><td align="center">Q-Audio</td></tr></tbody></table><h4 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h4><pre class="line-numbers language-text" data-language="text"><code class="language-text">为了能写出超越神明所能意识的美妙旋律而努力<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h3 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h3><h4 id="Cover"><a href="#Cover" class="headerlink" title="Cover"></a>Cover</h4><p><img src="/cover.jpg"></p><h4 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h4><p><img src="/img.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Sora. </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Light 3_key (Yubel Remix)</title>
+      <link href="/light-3-key-yubel-remix/"/>
+      <url>/light-3-key-yubel-remix/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Light-3-key-Yubel-Remix"><a href="#Light-3-key-Yubel-Remix" class="headerlink" title="Light 3_key (Yubel Remix)"></a><a href="https://github.com/SoarTeam/OpenMusic/raw/master/Original/21%20-%20Light%203_key%20(Yubel%20Remix)%20-%20Yubel.ogg">Light 3_key (Yubel Remix)</a></h2><h3 id="OpenMusic"><a href="#OpenMusic" class="headerlink" title="OpenMusic"></a>OpenMusic</h3>        <div id="aplayer-qtCqXpWM" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-qtCqXpWM"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Light 3_key (Yubel Remix)",              author: "Yubel",              url: "https://github.com/SoarTeam/OpenMusic/raw/master/Original/21%20-%20Light%203_key%20(Yubel%20Remix)%20-%20Yubel.ogg",              pic: "/light-3-key-yubel-remix/cover.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><h3 id="Metadata"><a href="#Metadata" class="headerlink" title="Metadata"></a>Metadata</h3><h4 id="Track"><a href="#Track" class="headerlink" title="Track"></a>Track</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Artist</td><td align="center">Yubel</td></tr><tr><td>Title</td><td align="center">Light 3_key (Yubel Remix)</td></tr><tr><td>Album</td><td align="center">Wide</td></tr><tr><td>Date</td><td align="center">2017-05-07</td></tr><tr><td>Genre</td><td align="center">Electronic</td></tr><tr><td>Composer</td><td align="center">3_key</td></tr><tr><td>Mixing</td><td align="center">Aloento</td></tr><tr><td>Track</td><td align="center">21</td></tr><tr><td>DAW</td><td align="center">Caustic</td></tr></tbody></table><h4 id="Release"><a href="#Release" class="headerlink" title="Release"></a>Release</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Duration</td><td align="center">2:53.793</td></tr><tr><td>Sampling</td><td align="center">192 kHz</td></tr><tr><td>Bit</td><td align="center">554 kbps</td></tr><tr><td>Format</td><td align="center">Vorbis</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr><tr><td>Picture</td><td align="center">Aloento</td></tr><tr><td>Signature</td><td align="center">115</td></tr><tr><td>Copyright</td><td align="center">Q-Audio</td></tr></tbody></table><h4 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h4><pre class="line-numbers language-text" data-language="text"><code class="language-text">回归到最原始的那就再简单一些我相信你会懂<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre><h3 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h3><h4 id="Cover"><a href="#Cover" class="headerlink" title="Cover"></a>Cover</h4><p><img src="/cover.jpg"></p><h4 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h4><p><img src="/img.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 3_key </category>
+          
+          <category> Yubel </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Light Yubel</title>
+      <link href="/light-yubel/"/>
+      <url>/light-yubel/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Light-Yubel"><a href="#Light-Yubel" class="headerlink" title="Light Yubel"></a><a href="https://github.com/SoarTeam/OpenMusic/raw/master/Original/09%20-%20Light%20Yubel%20-%20Yubel.ogg">Light Yubel</a></h2><h3 id="OpenMusic"><a href="#OpenMusic" class="headerlink" title="OpenMusic"></a>OpenMusic</h3>        <div id="aplayer-kyctvYIV" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-kyctvYIV"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Light Yubel",              author: "Yubel",              url: "https://github.com/SoarTeam/OpenMusic/raw/master/Original/09%20-%20Light%20Yubel%20-%20Yubel.ogg",              pic: "/light-yubel/cover.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><h3 id="Metadata"><a href="#Metadata" class="headerlink" title="Metadata"></a>Metadata</h3><h4 id="Track"><a href="#Track" class="headerlink" title="Track"></a>Track</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Artist</td><td align="center">Yubel</td></tr><tr><td>Title</td><td align="center">Light Yubel</td></tr><tr><td>Album</td><td align="center">Open</td></tr><tr><td>Date</td><td align="center">2017-05-07</td></tr><tr><td>Genre</td><td align="center">Electronic</td></tr><tr><td>Composer</td><td align="center">Yubel</td></tr><tr><td>Mixing</td><td align="center">Aloento</td></tr><tr><td>Track</td><td align="center">09</td></tr><tr><td>DAW</td><td align="center">Caustic</td></tr></tbody></table><h4 id="Release"><a href="#Release" class="headerlink" title="Release"></a>Release</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Duration</td><td align="center">3:56.074</td></tr><tr><td>Sampling</td><td align="center">192 kHz</td></tr><tr><td>Bit</td><td align="center">505 kbps</td></tr><tr><td>Format</td><td align="center">Vorbis</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr><tr><td>Picture</td><td align="center">Aloento</td></tr><tr><td>Signature</td><td align="center">102</td></tr><tr><td>Copyright</td><td align="center">Q-Audio</td></tr></tbody></table><h4 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h4><pre class="line-numbers language-text" data-language="text"><code class="language-text">回归到最原始的那就再简单一些我相信你会懂<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre><h3 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h3><h4 id="Cover"><a href="#Cover" class="headerlink" title="Cover"></a>Cover</h4><p><img src="/cover.jpg"></p><h4 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h4><p><img src="/img.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Yubel </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Simple Life</title>
+      <link href="/simple-life/"/>
+      <url>/simple-life/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Simple-Life"><a href="#Simple-Life" class="headerlink" title="Simple Life"></a><a href="https://github.com/SoarTeam/OpenMusic/raw/master/Original/11%20-%20Simple%20Life%20-%20Harry.G..ogg">Simple Life</a></h2><h3 id="OpenMusic"><a href="#OpenMusic" class="headerlink" title="OpenMusic"></a>OpenMusic</h3>        <div id="aplayer-YfntWyqU" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-YfntWyqU"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Simple Life",              author: "Harry.G.",              url: "https://github.com/SoarTeam/OpenMusic/raw/master/Original/11%20-%20Simple%20Life%20-%20Harry.G..ogg",              pic: "/simple-life/cover.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><h3 id="Metadata"><a href="#Metadata" class="headerlink" title="Metadata"></a>Metadata</h3><h4 id="Track"><a href="#Track" class="headerlink" title="Track"></a>Track</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Artist</td><td align="center">Harry.G.</td></tr><tr><td>Title</td><td align="center">Simple Life</td></tr><tr><td>Album</td><td align="center">Simple</td></tr><tr><td>Date</td><td align="center">2017-01-29</td></tr><tr><td>Genre</td><td align="center">Electronic</td></tr><tr><td>Composer</td><td align="center">Harry.G.</td></tr><tr><td>Mixing</td><td align="center">Aloento</td></tr><tr><td>Track</td><td align="center">11</td></tr><tr><td>DAW</td><td align="center">Caustic</td></tr></tbody></table><h4 id="Release"><a href="#Release" class="headerlink" title="Release"></a>Release</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Duration</td><td align="center">4:28.428</td></tr><tr><td>Sampling</td><td align="center">192 kHz</td></tr><tr><td>Bit</td><td align="center">514 kbps</td></tr><tr><td>Format</td><td align="center">Vorbis</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr><tr><td>Picture</td><td align="center">Aloento</td></tr><tr><td>Signature</td><td align="center">223</td></tr><tr><td>Copyright</td><td align="center">Q-Audio</td></tr></tbody></table><h4 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h4><pre class="line-numbers language-text" data-language="text"><code class="language-text">简单一点无非如此Hurry. No.<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre><h3 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h3><h4 id="Cover"><a href="#Cover" class="headerlink" title="Cover"></a>Cover</h4><p><img src="/cover.jpg"></p><h4 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h4><p><img src="/img.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Harry.G. </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Tomorrow isLand</title>
+      <link href="/tomorrow-island/"/>
+      <url>/tomorrow-island/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Tomorrow-isLand"><a href="#Tomorrow-isLand" class="headerlink" title="Tomorrow isLand"></a><a href="https://github.com/SoarTeam/OpenMusic/raw/master/Original/04%20-%20Tomorrow%20isLand%20-%20Yubel.ogg">Tomorrow isLand</a></h2><h3 id="OpenMusic"><a href="#OpenMusic" class="headerlink" title="OpenMusic"></a>OpenMusic</h3>        <div id="aplayer-qzpDssDc" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-qzpDssDc"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Tomorrow isLand",              author: "Yubel",              url: "https://github.com/SoarTeam/OpenMusic/raw/master/Original/04%20-%20Tomorrow%20isLand%20-%20Yubel.ogg",              pic: "/tomorrow-island/cover.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><h3 id="Metadata"><a href="#Metadata" class="headerlink" title="Metadata"></a>Metadata</h3><h4 id="Track"><a href="#Track" class="headerlink" title="Track"></a>Track</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Artist</td><td align="center">Yubel</td></tr><tr><td>Title</td><td align="center">Tomorrow isLand</td></tr><tr><td>Album</td><td align="center">iLand</td></tr><tr><td>Date</td><td align="center">2017-01-16</td></tr><tr><td>Genre</td><td align="center">Electronic</td></tr><tr><td>Composer</td><td align="center">Yubel</td></tr><tr><td>Mixing</td><td align="center">Aloento</td></tr><tr><td>Track</td><td align="center">04</td></tr><tr><td>DAW</td><td align="center">Caustic</td></tr></tbody></table><h4 id="Release"><a href="#Release" class="headerlink" title="Release"></a>Release</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Duration</td><td align="center">4:07.791</td></tr><tr><td>Sampling</td><td align="center">192 kHz</td></tr><tr><td>Bit</td><td align="center">492 kbps</td></tr><tr><td>Format</td><td align="center">Vorbis</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr><tr><td>Picture</td><td align="center">盈雪敝空</td></tr><tr><td>Signature</td><td align="center">152</td></tr><tr><td>Copyright</td><td align="center">Q-Audio</td></tr></tbody></table><h4 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h4><pre class="line-numbers language-text" data-language="text"><code class="language-text">明日岛上有无限可能那是你心中的海啸你静静的站着不让任何人知道<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><h3 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h3><h4 id="Cover"><a href="#Cover" class="headerlink" title="Cover"></a>Cover</h4><p><img src="/cover.jpg"></p><h4 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h4><p><img src="/img.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Yubel </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Witch Moonlight</title>
+      <link href="/witch-moonlight/"/>
+      <url>/witch-moonlight/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Witch-Moonlight"><a href="#Witch-Moonlight" class="headerlink" title="Witch Moonlight"></a><a href="https://github.com/SoarTeam/OpenMusic/raw/master/Original/08%20-%20Witch%20Moonlight%20-%20Yubel.ogg">Witch Moonlight</a></h2><h3 id="OpenMusic"><a href="#OpenMusic" class="headerlink" title="OpenMusic"></a>OpenMusic</h3>        <div id="aplayer-ynjCescm" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-ynjCescm"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Witch Moonlight",              author: "Yubel",              url: "https://github.com/SoarTeam/OpenMusic/raw/master/Original/08%20-%20Witch%20Moonlight%20-%20Yubel.ogg",              pic: "/witch-moonlight/cover.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><h3 id="Metadata"><a href="#Metadata" class="headerlink" title="Metadata"></a>Metadata</h3><h4 id="Track"><a href="#Track" class="headerlink" title="Track"></a>Track</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Artist</td><td align="center">Yubel</td></tr><tr><td>Title</td><td align="center">Witch Moonlight</td></tr><tr><td>Album</td><td align="center">Moon</td></tr><tr><td>Date</td><td align="center">2017-01-16</td></tr><tr><td>Genre</td><td align="center">Electronic</td></tr><tr><td>Composer</td><td align="center">Yubel</td></tr><tr><td>Mixing</td><td align="center">Aloento</td></tr><tr><td>Track</td><td align="center">08</td></tr><tr><td>DAW</td><td align="center">Caustic</td></tr></tbody></table><h4 id="Release"><a href="#Release" class="headerlink" title="Release"></a>Release</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Duration</td><td align="center">4:31.850</td></tr><tr><td>Sampling</td><td align="center">192 kHz</td></tr><tr><td>Bit</td><td align="center">513 kbps</td></tr><tr><td>Format</td><td align="center">Vorbis</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr><tr><td>Picture</td><td align="center">盈雪敝空</td></tr><tr><td>Signature</td><td align="center">300</td></tr><tr><td>Copyright</td><td align="center">Q-Audio</td></tr></tbody></table><h4 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h4><pre class="line-numbers language-text" data-language="text"><code class="language-text">极光辉映随意的躺在月光下享受宁静<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre><h3 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h3><h4 id="Cover"><a href="#Cover" class="headerlink" title="Cover"></a>Cover</h4><p><img src="/cover.jpg"></p><h4 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h4><p><img src="/img.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Yubel </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Night</title>
+      <link href="/night/"/>
+      <url>/night/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Night"><a href="#Night" class="headerlink" title="Night"></a><a href="https://github.com/SoarTeam/OpenMusic/raw/master/Original/17%20-%20Night%20-%203_key.ogg">Night</a></h2><h3 id="OpenMusic"><a href="#OpenMusic" class="headerlink" title="OpenMusic"></a>OpenMusic</h3>        <div id="aplayer-DBQgBccl" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-DBQgBccl"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Night",              author: "3_key",              url: "https://github.com/SoarTeam/OpenMusic/raw/master/Original/17%20-%20Night%20-%203_key.ogg",              pic: "/night/cover.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><h3 id="Metadata"><a href="#Metadata" class="headerlink" title="Metadata"></a>Metadata</h3><h4 id="Track"><a href="#Track" class="headerlink" title="Track"></a>Track</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Artist</td><td align="center">3_key</td></tr><tr><td>Title</td><td align="center">Night</td></tr><tr><td>Album</td><td align="center">Reminiscences</td></tr><tr><td>Date</td><td align="center">2016-12-10</td></tr><tr><td>Genre</td><td align="center">Electronic</td></tr><tr><td>Composer</td><td align="center">3_key</td></tr><tr><td>Mixing</td><td align="center">Aloento</td></tr><tr><td>Track</td><td align="center">17</td></tr><tr><td>DAW</td><td align="center">Caustic</td></tr></tbody></table><h4 id="Release"><a href="#Release" class="headerlink" title="Release"></a>Release</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Duration</td><td align="center">2:39.969</td></tr><tr><td>Sampling</td><td align="center">192 kHz</td></tr><tr><td>Bit</td><td align="center">570 kbps</td></tr><tr><td>Format</td><td align="center">Vorbis</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr><tr><td>Picture</td><td align="center">Aloento</td></tr><tr><td>Signature</td><td align="center">117</td></tr><tr><td>Copyright</td><td align="center">Q-Audio</td></tr></tbody></table><h4 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h4><pre class="line-numbers language-text" data-language="text"><code class="language-text">NULL<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h3 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h3><h4 id="Cover"><a href="#Cover" class="headerlink" title="Cover"></a>Cover</h4><p><img src="/cover.jpg"></p><h4 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h4><p><img src="/img.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 3_key </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>The Best Ending</title>
+      <link href="/the-best-ending/"/>
+      <url>/the-best-ending/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="The-best-Ending"><a href="#The-best-Ending" class="headerlink" title="The best Ending"></a><a href="https://github.com/SoarTeam/OpenMusic/raw/master/Original/19%20-%20The%20best%20Ending%20-%20Harry.G..ogg">The best Ending</a></h2><h3 id="OpenMusic"><a href="#OpenMusic" class="headerlink" title="OpenMusic"></a>OpenMusic</h3>        <div id="aplayer-kIUAAVeu" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-kIUAAVeu"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "The best Ending",              author: "Harry.G.",              url: "https://github.com/SoarTeam/OpenMusic/raw/master/Original/19%20-%20The%20best%20Ending%20-%20Harry.G..ogg",              pic: "/the-best-ending/cover.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><h3 id="Metadata"><a href="#Metadata" class="headerlink" title="Metadata"></a>Metadata</h3><h4 id="Track"><a href="#Track" class="headerlink" title="Track"></a>Track</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Artist</td><td align="center">Harry.G.</td></tr><tr><td>Title</td><td align="center">The best Ending</td></tr><tr><td>Album</td><td align="center">End</td></tr><tr><td>Date</td><td align="center">2016-12-10</td></tr><tr><td>Genre</td><td align="center">Electronic</td></tr><tr><td>Composer</td><td align="center">Harry.G.</td></tr><tr><td>Mixing</td><td align="center">Aloento</td></tr><tr><td>Track</td><td align="center">19</td></tr><tr><td>DAW</td><td align="center">Caustic</td></tr></tbody></table><h4 id="Release"><a href="#Release" class="headerlink" title="Release"></a>Release</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Duration</td><td align="center">3:41.742</td></tr><tr><td>Sampling</td><td align="center">192 kHz</td></tr><tr><td>Bit</td><td align="center">558 kbps</td></tr><tr><td>Format</td><td align="center">Vorbis</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr><tr><td>Picture</td><td align="center">盈雪敝空</td></tr><tr><td>Signature</td><td align="center">050</td></tr><tr><td>Copyright</td><td align="center">Q-Audio</td></tr></tbody></table><h4 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h4><pre class="line-numbers language-text" data-language="text"><code class="language-text">NULL<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h3 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h3><h4 id="Cover"><a href="#Cover" class="headerlink" title="Cover"></a>Cover</h4><p><img src="/cover.jpg"></p><h4 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h4><p><img src="/img.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Harry.G. </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Blue (Lemon Shim Remix)</title>
+      <link href="/blue-lemon-shim-remix/"/>
+      <url>/blue-lemon-shim-remix/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Blue-Lemon-Shim-Remix"><a href="#Blue-Lemon-Shim-Remix" class="headerlink" title="Blue (Lemon Shim Remix)"></a><a href="https://github.com/SoarTeam/OpenMusic/raw/master/Remix/03%20-%20Blue%20(Lemon%20Shim%20Remix)%20-%20Brownode.ogg">Blue (Lemon Shim Remix)</a></h2><h3 id="OpenMusic"><a href="#OpenMusic" class="headerlink" title="OpenMusic"></a>OpenMusic</h3>        <div id="aplayer-wJvoWtGB" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-wJvoWtGB"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Blue (Lemon Shim Remix)",              author: "Brownode",              url: "https://github.com/SoarTeam/OpenMusic/raw/master/Remix/03%20-%20Blue%20(Lemon%20Shim%20Remix)%20-%20Brownode.ogg",              pic: "/blue-lemon-shim-remix/cover.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><h3 id="Metadata"><a href="#Metadata" class="headerlink" title="Metadata"></a>Metadata</h3><h4 id="Track"><a href="#Track" class="headerlink" title="Track"></a>Track</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Artist</td><td align="center">Brownode</td></tr><tr><td>Title</td><td align="center">Blue (Lemon Shim Remix)</td></tr><tr><td>Album</td><td align="center">Sky</td></tr><tr><td>Date</td><td align="center">2016-10-22</td></tr><tr><td>Genre</td><td align="center">Electronic</td></tr><tr><td>Composer</td><td align="center">Lemon Shim</td></tr><tr><td>Mixing</td><td align="center">Aloento</td></tr><tr><td>Track</td><td align="center">03</td></tr><tr><td>DAW</td><td align="center">Caustic</td></tr></tbody></table><h4 id="Release"><a href="#Release" class="headerlink" title="Release"></a>Release</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Duration</td><td align="center">3:38.386</td></tr><tr><td>Sampling</td><td align="center">192 kHz</td></tr><tr><td>Bit</td><td align="center">509 kbps</td></tr><tr><td>Format</td><td align="center">Vorbis</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr><tr><td>Picture</td><td align="center">盈雪敝空</td></tr><tr><td>Signature</td><td align="center">230</td></tr><tr><td>Copyright</td><td align="center">Q-Audio</td></tr></tbody></table><h4 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h4><pre class="line-numbers language-text" data-language="text"><code class="language-text">Blue The Sky还有一颗Blue的心到底是轻快还是失落我不知道但我相信你能感受到Brownode Bootleg Remix<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h3><h4 id="Cover"><a href="#Cover" class="headerlink" title="Cover"></a>Cover</h4><p><img src="/cover.jpg"></p><h4 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h4><p><img src="/img.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Brownode </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Lost Dream</title>
+      <link href="/lost-dream/"/>
+      <url>/lost-dream/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Lost-Dream"><a href="#Lost-Dream" class="headerlink" title="Lost Dream"></a><a href="https://github.com/SoarTeam/OpenMusic/raw/master/Original/16%20-%20Lost%20Dream%20-%20Brownode.ogg">Lost Dream</a></h2><h3 id="OpenMusic"><a href="#OpenMusic" class="headerlink" title="OpenMusic"></a>OpenMusic</h3>        <div id="aplayer-PrWjEefd" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-PrWjEefd"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Lost Dream",              author: "Brownode",              url: "https://github.com/SoarTeam/OpenMusic/raw/master/Original/16%20-%20Lost%20Dream%20-%20Brownode.ogg",              pic: "/lost-dream/cover.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><h3 id="Metadata"><a href="#Metadata" class="headerlink" title="Metadata"></a>Metadata</h3><h4 id="Track"><a href="#Track" class="headerlink" title="Track"></a>Track</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Artist</td><td align="center">Brownode</td></tr><tr><td>Title</td><td align="center">Lost Dream</td></tr><tr><td>Album</td><td align="center">Dream</td></tr><tr><td>Date</td><td align="center">2016-10-22</td></tr><tr><td>Genre</td><td align="center">Electronic</td></tr><tr><td>Composer</td><td align="center">Brownode</td></tr><tr><td>Mixing</td><td align="center">Aloento</td></tr><tr><td>Track</td><td align="center">16</td></tr><tr><td>DAW</td><td align="center">Caustic</td></tr></tbody></table><h4 id="Release"><a href="#Release" class="headerlink" title="Release"></a>Release</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Duration</td><td align="center">2:18.750</td></tr><tr><td>Sampling</td><td align="center">192 kHz</td></tr><tr><td>Bit</td><td align="center">539 kbps</td></tr><tr><td>Format</td><td align="center">Vorbis</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr><tr><td>Picture</td><td align="center">Stefan Stefancik</td></tr><tr><td>Signature</td><td align="center">015</td></tr><tr><td>Copyright</td><td align="center">Q-Audio</td></tr></tbody></table><h4 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h4><pre class="line-numbers language-text" data-language="text"><code class="language-text">NULL<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h3 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h3><h4 id="Cover"><a href="#Cover" class="headerlink" title="Cover"></a>Cover</h4><p><img src="/cover.jpg"></p><h4 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h4><p><img src="/img.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Brownode </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>OH</title>
+      <link href="/oh/"/>
+      <url>/oh/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="OH"><a href="#OH" class="headerlink" title="OH"></a><a href="https://github.com/SoarTeam/OpenMusic/raw/master/Original/14%20-%20OH%20-%20Yubel.ogg">OH</a></h2><h3 id="OpenMusic"><a href="#OpenMusic" class="headerlink" title="OpenMusic"></a>OpenMusic</h3>        <div id="aplayer-NcAAKrdW" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-NcAAKrdW"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "OH",              author: "Yubel",              url: "https://github.com/SoarTeam/OpenMusic/raw/master/Original/14%20-%20OH%20-%20Yubel.ogg",              pic: "/oh/cover.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><h3 id="Metadata"><a href="#Metadata" class="headerlink" title="Metadata"></a>Metadata</h3><h4 id="Track"><a href="#Track" class="headerlink" title="Track"></a>Track</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Artist</td><td align="center">Yubel</td></tr><tr><td>Title</td><td align="center">OH</td></tr><tr><td>Album</td><td align="center">Oh!</td></tr><tr><td>Date</td><td align="center">2016-10-22</td></tr><tr><td>Genre</td><td align="center">Electronic</td></tr><tr><td>Composer</td><td align="center">Yubel</td></tr><tr><td>Mixing</td><td align="center">Aloento</td></tr><tr><td>Track</td><td align="center">14</td></tr><tr><td>DAW</td><td align="center">Caustic</td></tr></tbody></table><h4 id="Release"><a href="#Release" class="headerlink" title="Release"></a>Release</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Duration</td><td align="center">4:11.374</td></tr><tr><td>Sampling</td><td align="center">192 kHz</td></tr><tr><td>Bit</td><td align="center">558 kbps</td></tr><tr><td>Format</td><td align="center">Vorbis</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr><tr><td>Picture</td><td align="center">Aloento</td></tr><tr><td>Signature</td><td align="center">100</td></tr><tr><td>Copyright</td><td align="center">Q-Audio</td></tr></tbody></table><h4 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h4><pre class="line-numbers language-text" data-language="text"><code class="language-text">NULL<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h3 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h3><h4 id="Cover"><a href="#Cover" class="headerlink" title="Cover"></a>Cover</h4><p><img src="/cover.jpg"></p><h4 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h4><p><img src="/img.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Yubel </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Fire</title>
+      <link href="/fire/"/>
+      <url>/fire/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Fire"><a href="#Fire" class="headerlink" title="Fire"></a><a href="https://github.com/SoarTeam/OpenMusic/raw/master/Original/15%20-%20Fire%20-%20Yubel.ogg">Fire</a></h2><h3 id="OpenMusic"><a href="#OpenMusic" class="headerlink" title="OpenMusic"></a>OpenMusic</h3>        <div id="aplayer-pZjqqrqe" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-pZjqqrqe"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Fire",              author: "Yubel",              url: "https://github.com/SoarTeam/OpenMusic/raw/master/Original/15%20-%20Fire%20-%20Yubel.ogg",              pic: "/fire/cover.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><h3 id="Metadata"><a href="#Metadata" class="headerlink" title="Metadata"></a>Metadata</h3><h4 id="Track"><a href="#Track" class="headerlink" title="Track"></a>Track</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Artist</td><td align="center">Yubel</td></tr><tr><td>Title</td><td align="center">Fire</td></tr><tr><td>Album</td><td align="center">Burning!</td></tr><tr><td>Date</td><td align="center">2016-09-30</td></tr><tr><td>Genre</td><td align="center">Electronic</td></tr><tr><td>Composer</td><td align="center">Yubel</td></tr><tr><td>Mixing</td><td align="center">Aloento</td></tr><tr><td>Track</td><td align="center">15</td></tr><tr><td>DAW</td><td align="center">Caustic</td></tr></tbody></table><h4 id="Release"><a href="#Release" class="headerlink" title="Release"></a>Release</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Duration</td><td align="center">3:43.817</td></tr><tr><td>Sampling</td><td align="center">192 kHz</td></tr><tr><td>Bit</td><td align="center">666 kbps</td></tr><tr><td>Format</td><td align="center">Vorbis</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr><tr><td>Picture</td><td align="center">Pixabay</td></tr><tr><td>Signature</td><td align="center">040</td></tr><tr><td>Copyright</td><td align="center">Q-Audio</td></tr></tbody></table><h4 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h4><pre class="line-numbers language-text" data-language="text"><code class="language-text">NULL<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h3 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h3><h4 id="Cover"><a href="#Cover" class="headerlink" title="Cover"></a>Cover</h4><p><img src="/cover.jpg"></p><h4 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h4><p><img src="/img.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Yubel </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Reality</title>
+      <link href="/reality/"/>
+      <url>/reality/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Reality"><a href="#Reality" class="headerlink" title="Reality"></a><a href="https://github.com/SoarTeam/OpenMusic/raw/master/Original/07%20-%20Reality%20-%20Yubel.ogg">Reality</a></h2><h3 id="OpenMusic"><a href="#OpenMusic" class="headerlink" title="OpenMusic"></a>OpenMusic</h3>        <div id="aplayer-AhmoTBTS" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-AhmoTBTS"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Reality",              author: "Yubel",              url: "https://github.com/SoarTeam/OpenMusic/raw/master/Original/07%20-%20Reality%20-%20Yubel.ogg",              pic: "/reality/cover.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><h3 id="Metadata"><a href="#Metadata" class="headerlink" title="Metadata"></a>Metadata</h3><h4 id="Track"><a href="#Track" class="headerlink" title="Track"></a>Track</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Artist</td><td align="center">Yubel</td></tr><tr><td>Title</td><td align="center">Reality</td></tr><tr><td>Album</td><td align="center">Escape</td></tr><tr><td>Date</td><td align="center">2016-09-30</td></tr><tr><td>Genre</td><td align="center">Electronic</td></tr><tr><td>Composer</td><td align="center">Monstar</td></tr><tr><td>Mixing</td><td align="center">Aloento</td></tr><tr><td>Track</td><td align="center">07</td></tr><tr><td>DAW</td><td align="center">Caustic</td></tr></tbody></table><h4 id="Release"><a href="#Release" class="headerlink" title="Release"></a>Release</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Duration</td><td align="center">3:49.326</td></tr><tr><td>Sampling</td><td align="center">192 kHz</td></tr><tr><td>Bit</td><td align="center">519 kbps</td></tr><tr><td>Format</td><td align="center">Vorbis</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr><tr><td>Picture</td><td align="center">Ithalu Domingues</td></tr><tr><td>Signature</td><td align="center">120</td></tr><tr><td>Copyright</td><td align="center">Q-Audio</td></tr></tbody></table><h4 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h4><pre class="line-numbers language-text" data-language="text"><code class="language-text">山的那边有什么海的对面是什么穹顶之外是什么你的心里有什么我在我不在<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h3><h4 id="Cover"><a href="#Cover" class="headerlink" title="Cover"></a>Cover</h4><p><img src="/cover.jpg"></p><h4 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h4><p><img src="/img.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Monstar </category>
+          
+          <category> Yubel </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello Q-Audio</title>
+      <link href="/hello-q-audio/"/>
+      <url>/hello-q-audio/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Hello-Q-Audio"><a href="#Hello-Q-Audio" class="headerlink" title="Hello Q-Audio"></a><a href="https://github.com/SoarTeam/OpenMusic/raw/master/Original/00%20-%20Hello%20Q-Audio%20-%20Harry.G.%26Cravi.ogg">Hello Q-Audio</a></h2><h3 id="OpenMusic"><a href="#OpenMusic" class="headerlink" title="OpenMusic"></a>OpenMusic</h3>        <div id="aplayer-ImHGRDhY" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-ImHGRDhY"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Hello Q-Audio",              author: "Harry.G.&Cravi",              url: "https://github.com/SoarTeam/OpenMusic/raw/master/Original/00%20-%20Hello%20Q-Audio%20-%20Harry.G.%26Cravi.ogg",              pic: "/hello-q-audio/cover.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><h3 id="Metadata"><a href="#Metadata" class="headerlink" title="Metadata"></a>Metadata</h3><h4 id="Track"><a href="#Track" class="headerlink" title="Track"></a>Track</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Artist</td><td align="center">Harry.G.&amp;Cravi</td></tr><tr><td>Title</td><td align="center">Hello Q-Audio</td></tr><tr><td>Album</td><td align="center">QAST</td></tr><tr><td>Date</td><td align="center">2016-09-02</td></tr><tr><td>Genre</td><td align="center">Electronic</td></tr><tr><td>Composer</td><td align="center">Harry.G.&amp;Cravi</td></tr><tr><td>Mixing</td><td align="center">Aloento</td></tr><tr><td>Track</td><td align="center">00</td></tr><tr><td>DAW</td><td align="center">Caustic</td></tr></tbody></table><h4 id="Release"><a href="#Release" class="headerlink" title="Release"></a>Release</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Duration</td><td align="center">3:30.801</td></tr><tr><td>Sampling</td><td align="center">192 kHz</td></tr><tr><td>Bit</td><td align="center">536 kbps</td></tr><tr><td>Format</td><td align="center">Vorbis</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr><tr><td>Picture</td><td align="center">Q-Audio</td></tr><tr><td>Signature</td><td align="center">120</td></tr><tr><td>Copyright</td><td align="center">Q-Audio</td></tr></tbody></table><h4 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h4><pre class="line-numbers language-text" data-language="text"><code class="language-text">作为一份有意义的黑历史<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h3 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h3><h4 id="Cover"><a href="#Cover" class="headerlink" title="Cover"></a>Cover</h4><p><img src="/cover.jpg"></p><h4 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h4><p><img src="/img.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Harry.G. </category>
+          
+          <category> Cravi </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Autumn Rain (Harry.G. Remix)</title>
+      <link href="/autumn-rain-harry-g-remix/"/>
+      <url>/autumn-rain-harry-g-remix/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Autumn-Rain-Harry-G-Remix"><a href="#Autumn-Rain-Harry-G-Remix" class="headerlink" title="Autumn Rain (Harry.G. Remix)"></a><a href="https://github.com/SoarTeam/OpenMusic/raw/master/Original/22%20-%20Autumn%20Rain%20(Harry.G.%20Remix)%20-%20Harry.G..ogg">Autumn Rain (Harry.G. Remix)</a></h2><h3 id="OpenMusic"><a href="#OpenMusic" class="headerlink" title="OpenMusic"></a>OpenMusic</h3>        <div id="aplayer-FkjWCTkr" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-FkjWCTkr"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Autumn Rain (Harry.G. Remix)",              author: "Harry.G.",              url: "https://github.com/SoarTeam/OpenMusic/raw/master/Original/22%20-%20Autumn%20Rain%20(Harry.G.%20Remix)%20-%20Harry.G..ogg",              pic: "/autumn-rain-harry-g-remix/cover.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><h3 id="Metadata"><a href="#Metadata" class="headerlink" title="Metadata"></a>Metadata</h3><h4 id="Track"><a href="#Track" class="headerlink" title="Track"></a>Track</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Artist</td><td align="center">Harry.G.</td></tr><tr><td>Title</td><td align="center">Autumn Rain (Harry.G. Remix)</td></tr><tr><td>Album</td><td align="center">HOME</td></tr><tr><td>Date</td><td align="center">2015-03-03</td></tr><tr><td>Genre</td><td align="center">Electronic</td></tr><tr><td>Composer</td><td align="center">3_key</td></tr><tr><td>Mixing</td><td align="center">Aloento</td></tr><tr><td>Track</td><td align="center">22</td></tr><tr><td>DAW</td><td align="center">Caustic</td></tr></tbody></table><h4 id="Release"><a href="#Release" class="headerlink" title="Release"></a>Release</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Duration</td><td align="center">3:28.571</td></tr><tr><td>Sampling</td><td align="center">192 kHz</td></tr><tr><td>Bit</td><td align="center">485 kbps</td></tr><tr><td>Format</td><td align="center">Vorbis</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr><tr><td>Picture</td><td align="center">盈雪敝空</td></tr><tr><td>Signature</td><td align="center">053</td></tr><tr><td>Copyright</td><td align="center">Q-Audio</td></tr></tbody></table><h4 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h4><pre class="line-numbers language-text" data-language="text"><code class="language-text">不太悲凉的秋天<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h3 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h3><h4 id="Cover"><a href="#Cover" class="headerlink" title="Cover"></a>Cover</h4><p><img src="/cover.jpg"></p><h4 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h4><p><img src="/img.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Harry.G. </category>
+          
+          <category> 3_key </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Autumn Rain</title>
+      <link href="/autumn-rain/"/>
+      <url>/autumn-rain/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Autumn-Rain"><a href="#Autumn-Rain" class="headerlink" title="Autumn Rain"></a><a href="https://github.com/SoarTeam/OpenMusic/raw/master/Original/20%20-%20Autumn%20Rain%20-%203_key.ogg">Autumn Rain</a></h2><h3 id="OpenMusic"><a href="#OpenMusic" class="headerlink" title="OpenMusic"></a>OpenMusic</h3>        <div id="aplayer-AAYrbPrX" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-AAYrbPrX"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Autumn Rain",              author: "3_key",              url: "https://github.com/SoarTeam/OpenMusic/raw/master/Original/20%20-%20Autumn%20Rain%20-%203_key.ogg",              pic: "/autumn-rain/cover.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><h3 id="Metadata"><a href="#Metadata" class="headerlink" title="Metadata"></a>Metadata</h3><h4 id="Track"><a href="#Track" class="headerlink" title="Track"></a>Track</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Artist</td><td align="center">3_key</td></tr><tr><td>Title</td><td align="center">Autumn Rain</td></tr><tr><td>Album</td><td align="center">HOME</td></tr><tr><td>Date</td><td align="center">2013-03-03</td></tr><tr><td>Genre</td><td align="center">Electronic</td></tr><tr><td>Composer</td><td align="center">3_key</td></tr><tr><td>Mixing</td><td align="center">Aloento</td></tr><tr><td>Track</td><td align="center">20</td></tr><tr><td>DAW</td><td align="center">Caustic</td></tr></tbody></table><h4 id="Release"><a href="#Release" class="headerlink" title="Release"></a>Release</h4><table><thead><tr><th>Name</th><th align="center">Value</th></tr></thead><tbody><tr><td>Duration</td><td align="center">2:42.266</td></tr><tr><td>Sampling</td><td align="center">192 kHz</td></tr><tr><td>Bit</td><td align="center">484 kbps</td></tr><tr><td>Format</td><td align="center">Vorbis</td></tr><tr><td>DAW</td><td align="center">Reaper</td></tr><tr><td>Picture</td><td align="center">盈雪敝空</td></tr><tr><td>Signature</td><td align="center">038</td></tr><tr><td>Copyright</td><td align="center">Q-Audio</td></tr></tbody></table><h4 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h4><pre class="line-numbers language-text" data-language="text"><code class="language-text">不太悲凉的秋天<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h3 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h3><h4 id="Cover"><a href="#Cover" class="headerlink" title="Cover"></a>Cover</h4><p><img src="/cover.jpg"></p><h4 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h4><p><img src="/img.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 3_key </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
